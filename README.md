@@ -2,7 +2,8 @@
 
 ## Instructions
 
-The documents in this repository will be posted to the official State of Alaska Procurement location date TBD. All documents contained in this repository are drafts and will be updated based on information gathered through this process, as well as feedback from our Federal Partners
+The documents in this repository will be posted to the official State of Alaska Procurement location date TBD. All documents contained in this repository are drafts and will be updated based on information gathered through this process, as well as feedback from our Federal Partners.
+We are soliciting feedback on this RFP as well as the RFP attachments through the github issues functionality. Offerors should open new issues on this specific repository for each question, suggestion, or feedback item.
 
 
 ## Background
