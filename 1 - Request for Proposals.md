@@ -190,6 +190,10 @@ An offeror\'s failure to meet these minimum prior experience
 requirements may cause their proposal to be considered non-responsive
 and their proposal may be rejected.
 
+Offerors must complete Required Vendor Response - DHSS IT Requirements, 
+and return it as part of their proposal. A failure to complete and return 
+this IT Reference will result in a proposal being deemed non-responsive.
+
 ### <a name="1.05"></a>SEC. 1.05 REQUIRED REVIEW
 
 Offerors should carefully review this solicitation for defects and
