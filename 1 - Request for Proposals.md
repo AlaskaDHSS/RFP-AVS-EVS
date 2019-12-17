@@ -194,6 +194,14 @@ Offerors must complete Required Vendor Response - DHSS IT Requirements,
 and return it as part of their proposal. A failure to complete and return 
 this IT Reference will result in a proposal being deemed non-responsive.
 
+In the body of their proposal, offerors must provide comprehensive narrative 
+statements that illustrate their understanding of the technical requirements 
+and must respond to all applicable sections, or respond why a section is 
+not applicable. A failure to demonstrate how the solution being proposed 
+addresses the Technical Requirements outlined may result in the proposal 
+deemed non-responsive and rejected.
+
+
 ### <a name="1.05"></a>SEC. 1.05 REQUIRED REVIEW
 
 Offerors should carefully review this solicitation for defects and
