@@ -45,5 +45,10 @@ discretion of the State.
 
 ## Contents
 
-1. [Request for Proposals](1-Request-for-Proposals.md)
-2.
+1. [Request for Proposals](1 - Request for Proposals (Draft).md)
+2. [DHSS IT Requirements](2 - Reference A - DHSS IT Requirements.pdf)
+3. [DHSS Project Management Requirements](3 - Reference B - DHSS Project Management Requirements.pdf)
+4. [DHSS Information Technology Standards](4 - Reference D - DHSS Information Technology Standards.pdf)
+5. [Data Destruction Information and References](5 - Reference F - Data Destruction Information and References.pdf)
+6. [DHSS Sample Security Authorization Package](6 - Reference H - DHSS Sample Security Authorization Package - Moderate C....pdf)
+7. [Required Vendor Response - DHSS IT Requirements](7 - Required Vendor Response - DHSS IT Requirements.pdf)
