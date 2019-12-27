@@ -16,7 +16,7 @@ Appropriations Act, 2008, Pub. L. No. 110-252; Section 1940 of the
 Social Security Act, Alaska Statutes (AS) 47.05.105 and 7 CFR 272.16 for
 asset, income, identity and new hire matches. The goals of this project
 are to procure a subscription service, supplemented with regularly
-scheduled data sump matches, to verify applicants meet the eligibility
+scheduled bulk data matches, to verify applicants meet the eligibility
 criteria for Public Assistance programs quickly and accurately.
 
 ------------------------------------------------------------------
@@ -148,7 +148,7 @@ Appropriations Act, 2008, Pub. L. No. 110-252; Section 1940 of the
 Social Security Act, Alaska Statutes (AS) 47.05.105 and 7 CFR 272.16 for
 asset, income, identity and new hire matches. The goals of this project
 are to procure a subscription service, supplemented with regularly
-scheduled data sump matches, to verify applicants and recipients of
+scheduled bulk data matches, to verify applicants and recipients of
 assistance meet the eligibility criteria for Public Assistance programs
 quickly and accurately.
 
