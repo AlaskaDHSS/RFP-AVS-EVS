@@ -164,10 +164,7 @@ More information about what Alaska requires can be found in Section [SECTION 2 S
 ### <a name="1.02"></a>SEC. 1.02 BUDGET
 
 
-Department of Health and Social Services, Division of Public Assistance,
-estimates a maximum budget of \$2,948,000 dollars for completion of this
-project. Payment for the contract is subject to funds already
-appropriated and identified.
+Department of Health and Social Services, Division of Public Assistance, estimates an initial budget of $1,447,600 dollars for 1 year for completion of this project. Year 1 costs include implementation activities. Upon completion of the initial term of the contract, the State may choose to exercise four (4) annual renewal options anticipated to be valued at $897,600 annually. If the full five (5) year term is executed the value is estimated to be $5,038,000. Payment for the contract is subject to funds already appropriated and identified.
 
 ### <a name="1.0"></a>SEC. 1.03 DEADLINE FOR RECEIPT OF PROPOSALS
 
