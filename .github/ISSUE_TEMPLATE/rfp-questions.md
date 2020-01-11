@@ -9,7 +9,7 @@ assignees: nfaulknerAK
 
 ## Name and affiliation
 
-{please provide information about your job/role in the acquistion process as well as your organization}
+{please provide information about your job/role in the acquisition process as well as your organization}
 
 ## Section of RFP documents
 
