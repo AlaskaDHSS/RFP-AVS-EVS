@@ -1156,7 +1156,7 @@ If any provision of this contract is found to be invalid, such invalidation will
 
 Public notice has been provided in accordance with 2 AAC 12.220.
 
-## <a name="7.14"></a>SEC. 7.14 SOLICITATION ADVERTISING
+## SECTION 8. Attachments
 
 Appendices included within this document:
 
@@ -1184,58 +1184,18 @@ Attachments included as separate documents:
 
 5)  IT Reference F - Data Destruction Information and References
 
-6)  IT Reference H - DHSS Sample Security Authorization Package -
-    Moderate Control Set
+6)  IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set
 
 ### <a name="8.01"></a>SEC. 8.01 ATTACHMENT 1 -- COST PROPOSAL
 
-Note: The purpose of the cost proposal is to provide a mechanism for
-offerors to submit their estimated level of effort and hourly rates so
-that DHSS can evaluate and score and then use to establish billing rates
-for the resultant contract. While total project cost is non-negotiable,
-DHSS may choose to reallocate the project funds based on the ongoing
-project needs.
+**The Cost Proposal Format**
 
-Please provide your estimated cost for completion of all project roles
-and all related expenses required to fulfill the project requirements
-using the following format:
+The purpose of the cost proposal is to provide a mechanism for offerors to submit their cost proposal in a format that DHSS can evaluate and score. The total costs below will be used to evaluate proposals, and the rates indicated will be used to establish billing rates in the resultant contract.
 
-Role (please provide a separate line for every role required for project
-completion)
+Offerors are expected to complete Column 2 with their proposed rates, then multiply those rates times the frequency indicated in Column 3, to arrive at the annualized amounts in Column 4.
 
-Hourly Rate Estimated Hours for Project Completion Total Cost for Role
+**Notes regarding this cost proposal:**
 
-Materials, Travel, and all other non-personnel project costs (please
-itemize into categories)
+- The item counts listed below are estimates, based on anticipated item numbers. These numbers are not a guarantee of services, but rather are used here to estimate annual costs for the purpose of evaluation. The State will only pay for actual services utilized.
+- Flat rate items (Implementation & Maintenance Fees) are all inclusive. These items must include all expenses needed to accomplish the task, including items such as, but not limited to: supplies, overhead, travel, meetings, communications, etc.
 
-TOTAL PROJECT BUDGET (not to exceed \$xxx)
-
-\*\* Note that the estimated level of effort and roles must align with
-the Staffing Plan included in your technical proposal
-
-The procurement officer will guide you to ensuring the cost proposal
-will be presented in an 'apples to apples' format -- so that the
-expectation of the cost will be equitable. No portion of the cost
-proposal can be subject to interpretation (apples to oranges).
-
--   What format will this take? -- the cost proposal will guide the way
-    pricing is presented, and ultimately, the way billing will occur in
-    the contract. Any necessary reporting requirements may need to be
-    met here.
-
--   How does the division wish to pay for these services in the
-    resultant contract? Some examples include:
-
-    -   Flat rate monthly (or quarterly, etc)
-
-    -   Fee for service
-
-    -   Fixed price
-
-    -   Per completed deliverable, etc.
-
--   Travel will need to included and quantified here -- including number
-    of trips and individuals necessary
-
--   Any other expenses will need to be identified, and who's
-    responsibility it will be to pay for them.
