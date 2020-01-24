@@ -1170,7 +1170,7 @@ Appendices included within this document:
 
 5)  Certification Regarding Debarment
 
-6)  Standard Agreement Form - Appendices A -- E (includes HIPAA BAA)
+6)  Standard Agreement Form - Appendices A -- D
 
 Attachments included as separate documents:
 
@@ -1789,9 +1789,7 @@ published as Part VII of the May 26, 1988 Federal Register (pages
 19160-19211).
 
 **Before completing this certification, read the instructions on the
-following page,**
-
-**which are an integral part of the certification.**
+following page, which are an integral part of the certification.**
 
 1.  The prospective recipient of Federal assistance funds certifies, by
     submission of this bid, that neither
@@ -1811,7 +1809,7 @@ Name and Title of Authorized Representative
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Signature Date
+Signature / Date
 
 **Instructions for Certification**
 
@@ -1840,7 +1838,7 @@ Signature Date
     \"principal,\" \"Proposal,\" and \"voluntarily excluded,\" as used
     in this clause, have the meanings set out in the Definitions and
     Coverage sections of rules implementing Executive Order 12549. You
-    may contact the personto which this Proposal is submitted for
+    may contact the person to which this Proposal is submitted for
     assistance in obtaining a copy of those regulations.
 
 5.  The prospective recipient of Federal assistance funds agrees by
@@ -1886,681 +1884,324 @@ remedies, including suspension and/or debarment.
 SEC. 8.06 APPENDIX 6 -- TEMPLATE STANDARD AGREEMENT FORM
 --------------------------------------------------------
 
-+--------------+--------------+--------------+--------------+-------+
-| 1\. Agency   | 2\.          | 3\.          | 4\. Agency   |       |
-| Contract     | Solicitation | Financial    | Assigned     |       |
-| Number       | Number       | Coding       | Encumbrance  |       |
-|              |              |              | Number       |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 5\. Vendor   | 6\.          | 7\. Alaska   |              |       |
-| Number       | Project/Case | Business     |              |       |
-|              | Number       | License      |              |       |
-|              |              | Number       |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| **This       |              |              |              |       |
-| contract is  |              |              |              |       |
-| between the  |              |              |              |       |
-| State of     |              |              |              |       |
-| Alaska,**    |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 8\.          | Division     |              |              |       |
-| Department   |              |              |              |       |
-| of           |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Health and   |              | hereafter    |              |       |
-| Social       |              | the State,   |              |       |
-| Services     |              | and          |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 9\.          |              |              |              |       |
-| Contractor   |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              | hereafter    |              |              |       |
-|              | the          |              |              |       |
-|              | Contractor   |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Mailing      | Street or    | City         | State        | ZIP+4 |
-| Address      | P.O. Box     |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 10\.         |              |              |              |       |
-|              |              |              |              |       |
-| **ARTICLE 1. |              |              |              |       |
-| A            |              |              |              |       |
-| ppendices:** |              |              |              |       |
-| Appendices   |              |              |              |       |
-| referred to  |              |              |              |       |
-| in this      |              |              |              |       |
-| contract and |              |              |              |       |
-| attached to  |              |              |              |       |
-| it are       |              |              |              |       |
-| considered   |              |              |              |       |
-| part of it.  |              |              |              |       |
-|              |              |              |              |       |
-| **ARTICLE 2. |              |              |              |       |
-| Performance  |              |              |              |       |
-| of           |              |              |              |       |
-| Service:**   |              |              |              |       |
-|              |              |              |              |       |
-| 2.1 Appendix |              |              |              |       |
-| A (General   |              |              |              |       |
-| Provisions), |              |              |              |       |
-| Articles 1   |              |              |              |       |
-| through 16,  |              |              |              |       |
-| governs the  |              |              |              |       |
-| performance  |              |              |              |       |
-| of services  |              |              |              |       |
-| under this   |              |              |              |       |
-| contract     |              |              |              |       |
-|              |              |              |              |       |
-| 2.2 Appendix |              |              |              |       |
-| B (Indemnity |              |              |              |       |
-| and          |              |              |              |       |
-| Insurance)   |              |              |              |       |
-| sets forth   |              |              |              |       |
-| the          |              |              |              |       |
-| liability    |              |              |              |       |
-| and          |              |              |              |       |
-| insurance    |              |              |              |       |
-| provisions   |              |              |              |       |
-| of this      |              |              |              |       |
-| contract     |              |              |              |       |
-|              |              |              |              |       |
-| 2.3 Appendix |              |              |              |       |
-| C            |              |              |              |       |
-| (Description |              |              |              |       |
-| of Services) |              |              |              |       |
-| sets forth   |              |              |              |       |
-| the services |              |              |              |       |
-| to be        |              |              |              |       |
-| performed by |              |              |              |       |
-| the          |              |              |              |       |
-| Contractor   |              |              |              |       |
-|              |              |              |              |       |
-| 2.4 Appendix |              |              |              |       |
-| D (Payment   |              |              |              |       |
-| for          |              |              |              |       |
-| Services)    |              |              |              |       |
-| sets forth   |              |              |              |       |
-| the          |              |              |              |       |
-| provision    |              |              |              |       |
-| for payment  |              |              |              |       |
-|              |              |              |              |       |
-| 2.5 Appendix |              |              |              |       |
-| E (Health    |              |              |              |       |
-| Insurance    |              |              |              |       |
-| Portability  |              |              |              |       |
-| and          |              |              |              |       |
-| Ac           |              |              |              |       |
-| countability |              |              |              |       |
-| Act of 1996  |              |              |              |       |
-| ("HIPAA")    |              |              |              |       |
-| Business     |              |              |              |       |
-| Associate    |              |              |              |       |
-| Agreement)   |              |              |              |       |
-| governs the  |              |              |              |       |
-|              |              |              |              |       |
-| use of       |              |              |              |       |
-| Protected    |              |              |              |       |
-| Health       |              |              |              |       |
-| Information  |              |              |              |       |
-| under this   |              |              |              |       |
-| contract     |              |              |              |       |
-|              |              |              |              |       |
-| **ARTICLE 3. |              |              |              |       |
-| Period of    |              |              |              |       |
-| Pe           |              |              |              |       |
-| rformance:** |              |              |              |       |
-| The period   |              |              |              |       |
-| of           |              |              |              |       |
-| performance  |              |              |              |       |
-| for this     |              |              |              |       |
-| contract     |              |              |              |       |
-| begins       |              |              |              |       |
-| **[\_\_\_\_\ |              |              |              |       |
-| _\_\_\_\_\_\ |              |              |              |       |
-| _\_\_,]{.und |              |              |              |       |
-| erline}**and |              |              |              |       |
-| ends on      |              |              |              |       |
-| **[\_\_\     |              |              |              |       |
-| _\_\_\_\_\_\ |              |              |              |       |
-| _\_\_\_\_]{. |              |              |              |       |
-| underline}** |              |              |              |       |
-|              |              |              |              |       |
-| **ARTICLE 4. |              |              |              |       |
-| Consi        |              |              |              |       |
-| derations:** |              |              |              |       |
-|              |              |              |              |       |
-| 4.1 In full  |              |              |              |       |
-| c            |              |              |              |       |
-| onsideration |              |              |              |       |
-| of the       |              |              |              |       |
-| C            |              |              |              |       |
-| ontractor\'s |              |              |              |       |
-| performance  |              |              |              |       |
-| under this   |              |              |              |       |
-| contract,    |              |              |              |       |
-| the State    |              |              |              |       |
-| shall pay    |              |              |              |       |
-| the          |              |              |              |       |
-| Contractor a |              |              |              |       |
-| sum not to   |              |              |              |       |
-|              |              |              |              |       |
-| exceed       |              |              |              |       |
-| **           |              |              |              |       |
-| [\$0,000.00] |              |              |              |       |
-| {.underline} |              |              |              |       |
-| in**         |              |              |              |       |
-| accordance   |              |              |              |       |
-| with the     |              |              |              |       |
-| provisions   |              |              |              |       |
-| of Appendix  |              |              |              |       |
-| D.           |              |              |              |       |
-|              |              |              |              |       |
-| 4.2 When     |              |              |              |       |
-| billing, the |              |              |              |       |
-| Contractor   |              |              |              |       |
-| shall refer  |              |              |              |       |
-| to the       |              |              |              |       |
-| Agency       |              |              |              |       |
-| Contract     |              |              |              |       |
-| Number and   |              |              |              |       |
-| send the     |              |              |              |       |
-| billing to   |              |              |              |       |
-| the address  |              |              |              |       |
-| listed in    |              |              |              |       |
-| Appendix D.  |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 11\.         | Attention:   |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Department   | Contracts    |              |              |       |
-| of Health    | Support Team |              |              |       |
-| and Social   |              |              |              |       |
-| Services     |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Mailing      | Attention:   |              |              |       |
-| Address      |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| P.O. Box     | Contracts    |              |              |       |
-| 110650,      | Section      |              |              |       |
-| Juneau,      |              |              |              |       |
-| Alaska       |              |              |              |       |
-| 99811-0650   |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| **12.        | **14.        |              |              |       |
-| CONTRACTOR** | CER          |              |              |       |
-|              | TIFICATION** |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Name of Firm | I certify    |              |              |       |
-|              | that the     |              |              |       |
-|              | facts herein |              |              |       |
-|              | and on       |              |              |       |
-|              | supporting   |              |              |       |
-|              | documents    |              |              |       |
-|              | are correct, |              |              |       |
-|              | that this    |              |              |       |
-|              | voucher      |              |              |       |
-|              | constitutes  |              |              |       |
-|              | a legal      |              |              |       |
-|              | charge       |              |              |       |
-|              | against      |              |              |       |
-|              | funds and    |              |              |       |
-|              | ap           |              |              |       |
-|              | propriations |              |              |       |
-|              | cited, that  |              |              |       |
-|              | sufficient   |              |              |       |
-|              | funds are    |              |              |       |
-|              | encumbered   |              |              |       |
-|              | to pay this  |              |              |       |
-|              | obligation,  |              |              |       |
-|              | or that      |              |              |       |
-|              | there is a   |              |              |       |
-|              | sufficient   |              |              |       |
-|              | balance in   |              |              |       |
-|              | the          |              |              |       |
-|              | a            |              |              |       |
-|              | ppropriation |              |              |       |
-|              | cited to     |              |              |       |
-|              | cover this   |              |              |       |
-|              | obligation.  |              |              |       |
-|              | I am aware   |              |              |       |
-|              | that to      |              |              |       |
-|              | knowingly    |              |              |       |
-|              | make or      |              |              |       |
-|              | allow false  |              |              |       |
-|              | entries or   |              |              |       |
-|              | alterations  |              |              |       |
-|              | on a public  |              |              |       |
-|              | record, or   |              |              |       |
-|              | knowingly    |              |              |       |
-|              | destroy,     |              |              |       |
-|              | mutilate,    |              |              |       |
-|              | suppress,    |              |              |       |
-|              | conceal,     |              |              |       |
-|              | remove or    |              |              |       |
-|              | otherwise    |              |              |       |
-|              | impair the   |              |              |       |
-|              | verity,      |              |              |       |
-|              | legibility   |              |              |       |
-|              | or           |              |              |       |
-|              | availability |              |              |       |
-|              | of a public  |              |              |       |
-|              | record       |              |              |       |
-|              | constitutes  |              |              |       |
-|              | tampering    |              |              |       |
-|              | with public  |              |              |       |
-|              | records      |              |              |       |
-|              | punishable   |              |              |       |
-|              | under AS     |              |              |       |
-|              | 11.          |              |              |       |
-|              | 56.815-.820. |              |              |       |
-|              | Other        |              |              |       |
-|              | disciplinary |              |              |       |
-|              | action may   |              |              |       |
-|              | be taken up  |              |              |       |
-|              | to and       |              |              |       |
-|              | including    |              |              |       |
-|              | dismissal.   |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Signature of | Date         |              |              |       |
-| Authorized   |              |              |              |       |
-| Re           |              |              |              |       |
-| presentative |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Typed or     |              |              |              |       |
-| Printed Name |              |              |              |       |
-| of           |              |              |              |       |
-| Authorized   |              |              |              |       |
-| Re           |              |              |              |       |
-| presentative |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Title        |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| **13.        | Signature of | Date         |              |       |
-| CONTRACTING  | Head of      |              |              |       |
-| AGENCY**     | Contracting  |              |              |       |
-|              | Agency or    |              |              |       |
-|              | Designee     |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Departm      |              |              |              |       |
-| ent/Division |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Health &     |              |              |              |       |
-| Social       |              |              |              |       |
-| Services /   |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Signature of | Date         | Typed or     |              |       |
-| Project      |              | Printed Name |              |       |
-| Director     |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Typed or     | Title        |              |              |       |
-| Printed Name |              |              |              |       |
-| of Project   |              |              |              |       |
-| Director     |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| Title        |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-|              |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
-| 93. (Rev.    |              |              |              |       |
-|     04-14)   |              |              |              |       |
-|              |              |              |              |       |
-|    **NOTICE: |              |              |              |       |
-|     This     |              |              |              |       |
-|     contract |              |              |              |       |
-|     has no   |              |              |              |       |
-|     effect   |              |              |              |       |
-|     until    |              |              |              |       |
-|     signed   |              |              |              |       |
-|     by the   |              |              |              |       |
-|     head of  |              |              |              |       |
-|              |              |              |              |       |
-|  contracting |              |              |              |       |
-|     agency   |              |              |              |       |
-|     or       |              |              |              |       |
-|              |              |              |              |       |
-|  designee.** |              |              |              |       |
-+--------------+--------------+--------------+--------------+-------+
 
-**Appendix A**
+<p align="center">
+<strong>Appendix A
+</p>
+<p align="center">	
+General Provisions</strong>
+</p>
 
-**General Provisions**
 
-> **Article 1.Definitions.**
+**Article 1.Definitions.**
 
-1.1 In this contract and appendices, \"Project Director\" or \"Agency
-Head\" or \"Procurement Officer\" means the person who signs this
-contract on behalf of the Requesting Agency and includes a successor or
-authorized representative.
+1.1. In this contract and appendices, \"Project Director\" or \"Agency
+    Head\" or \"Procurement Officer\" means the person who signs this
+    contract on behalf of the Requesting Agency and includes a successor or
+    authorized representative.
 
-1.2 \"State Contracting Agency\" means the department for which this
-contract is to be performed and for which the Commissioner\
-or Authorized Designee acted in signing this contract.
+1.2. "State Contracting Agency" means the department for which this
+      contract is to be performed and for which the Commissioner or Authorized Designee acted in signing this contract.
 
 **Article 2. Inspections and Reports.**
 
-2.1 The department may inspect, in the manner and at reasonable times it
-considers appropriate, all the contractor\'s facilities\
-and activities under this contract.
+2.1. The department may inspect, in the manner and at reasonable times it
+     considers appropriate, all the contractor\'s facilities and activities under this contract.
 
-2.  The contractor shall make progress and other reports in the manner
+2.2. The contractor shall make progress and other reports in the manner
     and at the times the department reasonably requires.
 
 **Article 3. Disputes.**
 
-1.  If the contractor has a claim arising in connection with the
-    > contract that it cannot resolve with the State by mutual
-    > agreement,\
-    > it shall pursue the claim, if at all, in accordance with the
-    > provisions of AS 36.30.620 -- 632.
+3.1.  If the contractor has a claim arising in connection with the
+      contract that it cannot resolve with the State by mutual
+      agreement, it shall pursue the claim, if at all, in accordance with the
+      provisions of AS 36.30.620 -- 632.
 
 **Article 4. Equal Employment Opportunity.**
 
 4.1 The contractor may not discriminate against any employee or
-applicant for employment because of race, religion, color, national
-origin, or because of age, disability, sex, marital status, changes in
-marital status, pregnancy or parenthood when the reasonable demands of
-the position(s) do not require distinction on the basis of age,
-disability, sex, marital status, changes in marital status, pregnancy,
-or parenthood. The contractor shall take affirmative action to insure
-that the applicants are considered for employment and that employees are
-treated during employment without unlawful regard to their race, color,
-religion, national origin, ancestry, disability, age, sex, marital
-status, changes in marital status, pregnancy or parenthood. This action
-must include, but need not be limited to, the following: employment,
-upgrading, demotion, transfer, recruitment or recruitment advertising,
-layoff or termination, rates of pay or other forms of compensation, and
-selection for training including apprenticeship. The contractor shall
-post in conspicuous places, available to employees and applicants for
-employment, notices setting out the provisions of this paragraph.
+    applicant for employment because of race, religion, color, national
+    origin, or because of age, disability, sex, marital status, changes in
+    marital status, pregnancy or parenthood when the reasonable demands of
+    the position(s) do not require distinction on the basis of age,
+    disability, sex, marital status, changes in marital status, pregnancy,
+    or parenthood. The contractor shall take affirmative action to insure
+    that the applicants are considered for employment and that employees are
+    treated during employment without unlawful regard to their race, color,
+    religion, national origin, ancestry, disability, age, sex, marital
+    status, changes in marital status, pregnancy or parenthood. This action
+    must include, but need not be limited to, the following: employment,
+    upgrading, demotion, transfer, recruitment or recruitment advertising,
+    layoff or termination, rates of pay or other forms of compensation, and
+    selection for training including apprenticeship. The contractor shall
+    post in conspicuous places, available to employees and applicants for
+    employment, notices setting out the provisions of this paragraph.
 
-2.  The contractor shall state, in all solicitations or advertisements
-    for employees to work on State of Alaska contract jobs, that it is
-    an equal opportunity employer and that all qualified applicants will
-    receive consideration for employment without regard to race,
-    religion, color, national origin, age, disability, sex, marital
-    status, changes in marital status, pregnancy or parenthood.
+4.2. The contractor shall state, in all solicitations or advertisements
+     for employees to work on State of Alaska contract jobs, that it is
+     an equal opportunity employer and that all qualified applicants will
+     receive consideration for employment without regard to race,
+     religion, color, national origin, age, disability, sex, marital
+     status, changes in marital status, pregnancy or parenthood.
 
-3.  The contractor shall send to each labor union or representative of
-    workers with which the contractor has a collective bargaining
-    agreement or other contract or understanding a notice advising the
-    labor union or workers\' compensation representative of the
-    contractor\'s commitments under this article and post copies of the
-    notice in conspicuous places available to all employees and
-    applicants for employment.
+4.3.  The contractor shall send to each labor union or representative of
+      workers with which the contractor has a collective bargaining
+      agreement or other contract or understanding a notice advising the
+      labor union or workers\' compensation representative of the
+      contractor\'s commitments under this article and post copies of the
+      notice in conspicuous places available to all employees and
+      applicants for employment.
 
-4.4 The contractor shall include the provisions of this article in every
-contract, and shall require the inclusion of these provisions in every
-contract entered into by any of its subcontractors, so that those
-provisions will be binding upon each subcontractor. For the purpose of
-including those provisions in any contract or subcontract, as required
-by this contract, "contractor" and "subcontractor" may be changed to
-reflect appropriately the name or designation of the parties of the
-contract or subcontract.
+4.4. The contractor shall include the provisions of this article in every
+    contract, and shall require the inclusion of these provisions in every
+    contract entered into by any of its subcontractors, so that those
+    provisions will be binding upon each subcontractor. For the purpose of
+    including those provisions in any contract or subcontract, as required
+    by this contract, "contractor" and "subcontractor" may be changed to
+    reflect appropriately the name or designation of the parties of the
+    contract or subcontract.
 
-5.  The contractor shall cooperate fully with State efforts which seek
-    > to deal with the problem of unlawful discrimination, and with all
-    > other State efforts to guarantee fair employment practices under
-    > this contract, and promptly comply with all requests and
-    > directions from the State Commission for Human Rights or any of
-    > its officers or agents relating to prevention of discriminatory
-    > employment practices.
+4.5.  The contractor shall cooperate fully with State efforts which seek
+    to deal with the problem of unlawful discrimination, and with all
+    other State efforts to guarantee fair employment practices under
+    this contract, and promptly comply with all requests and
+    directions from the State Commission for Human Rights or any of
+    its officers or agents relating to prevention of discriminatory
+    employment practices.
 
-6.  Full cooperation in paragraph 4.5 includes, but is not limited to,
-    > being a witness in any proceeding involving questions of unlawful
-    > discrimination if that is requested by any official or agency of
-    > the State of Alaska; permitting employees of the contractor to be
-    > witnesses or complainants in any proceeding involving questions of
-    > unlawful discrimination, if that is requested by any official or
-    > agency of the State of Alaska; participating in meetings;
-    > submitting periodic reports on the equal employment aspects of
-    > present and future employment; assisting inspection of the
-    > contractor\'s facilities; and promptly complying with all State
-    > directives considered essential by any office or agency of the
-    > State of Alaska to insure compliance with all federal and State
-    > laws, regulations, and policies pertaining to the prevention of
-    > discriminatory employment practices.
+4.6.  Full cooperation in paragraph 4.5 includes, but is not limited to,
+    being a witness in any proceeding involving questions of unlawful
+    discrimination if that is requested by any official or agency of
+    the State of Alaska; permitting employees of the contractor to be
+    witnesses or complainants in any proceeding involving questions of
+    unlawful discrimination, if that is requested by any official or
+    agency of the State of Alaska; participating in meetings;
+    submitting periodic reports on the equal employment aspects of
+    present and future employment; assisting inspection of the
+    contractor\'s facilities; and promptly complying with all State
+    directives considered essential by any office or agency of the
+    State of Alaska to insure compliance with all federal and State
+    laws, regulations, and policies pertaining to the prevention of
+    discriminatory employment practices.
 
-7.  Failure to perform under this article constitutes a material breach
-    > of contract.
+4.7.  Failure to perform under this article constitutes a material breach
+    of contract.
 
-> **Article 5. Termination.**
->
-> The Project Director, by written notice, may terminate this contract,
-> in whole or in part, when it is in the best interest of the State. In
-> the absence of a breach of contract by the contractor, the State is
-> liable only for payment in accordance with the payment provisions of
-> this contract for services rendered before the effective date of
-> termination.
->
-> **Article 6. No Assignment or Delegation.**
->
-> The contractor may not assign or delegate this contract, or any part
-> of it, or any right to any of the money to be paid under it, except
-> with the written consent of the Project Director and the Agency Head.
->
-> **Article 7. No Additional Work or Material.**
->
-> No claim for additional services, not specifically provided in this
-> contract, performed or furnished by the contractor, will be allowed,
-> nor may the contractor do any work or furnish any material not covered
-> by the contract unless the work or material is ordered in writing by
-> the Project Director and approved by the Agency Head.
->
-> **Article 8. Independent Contractor.**
->
-> The contractor and any agents and employees of the contractor act in
-> an independent capacity and are not officers or employees or agents of
-> the State in the performance of this contract.
->
-> **Article 9. Payment of Taxes.**
->
-> As a condition of performance of this contract, the contractor shall
-> pay all federal, State, and local taxes incurred by the contractor and
-> shall require their payment by any Subcontractor or any other persons
-> in the performance of this contract. Satisfactory performance of this
-> paragraph is a condition precedent to payment by the State under this
-> contract.
->
-> **Article 10. Ownership of Documents.**
->
-> All designs, drawings, specifications, notes, artwork, and other work
-> developed in the performance of this agreement are produced for hire
-> and remain the sole property of the State of Alaska and may be used by
-> the State for any other purpose without additional compensation to the
-> contractor. The contractor agrees not to assert any rights and not to
-> establish any claim under the design patent or copyright laws.
-> Nevertheless, if the contractor does mark such documents with a
-> statement suggesting they are trademarked, copyrighted, or otherwise
-> protected against the State's unencumbered use or distribution, the
-> contractor agrees that this paragraph supersedes any such statement
-> and renders it void. The contractor, for a period of three years after
-> final payment under this contract, agrees to furnish and provide
-> access to all retained materials at the request of the Project
-> Director. Unless otherwise directed by the Project Director, the
-> contractor may retain copies of all the materials.
->
-> **Article 11. Governing Law; Forum Selection**
->
-> This contract is governed by the laws of the State of Alaska. To the
-> extent not otherwise governed by Article 3 of this Appendix, any claim
-> concerning this contract shall be brought only in the Superior Court
-> of the State of Alaska and not elsewhere.
->
-> **Article 12. Conflicting Provisions.**
->
-> Unless specifically amended and approved by the Department of Law, the
-> terms of this contract supersede any provisions the contractor may
-> seek to add. The contractor may not add additional or different terms
-> to this contract; AS 45.02.207(b)(1). The contractor specifically
-> acknowledges and agrees that, among other things, provisions in any
-> documents it seeks to append hereto that purport to (1) waive the
-> State of Alaska's sovereign immunity, (2) impose indemnification
-> obligations on the State of Alaska, or (3) limit liability of the
-> contractor for acts of contractor negligence, are expressly superseded
-> by this contract and are void.
->
-> **Article 13. Officials Not to Benefit.**
->
-> **Contractor must comply with all applicable federal or State laws
-> regulating ethical conduct of public officers and employees.**
->
-> **Article 14. Covenant Against Contingent Fees.**
->
-> The contractor warrants that no person or agency has been employed or
-> retained to solicit or secure this contract upon an agreement or
-> understanding for a commission, percentage, brokerage or contingent
-> fee except employees or agencies maintained by the contractor for the
-> purpose of securing business. For the breach or violation of this
-> warranty, the State may terminate this contract without liability or
-> in its discretion deduct from the contract price or consideration the
-> full amount of the commission, percentage, brokerage or contingent
-> fee.
->
-> **Article 15. Compliance.**
->
-> In the performance of this contract, the contractor must comply with
-> all applicable federal, state, and borough regulations, codes, and
-> laws, and be liable for all required insurance, licenses, permits and
-> bonds.
->
-> **Article 16. Force Majeure:**
->
-> The parties to this contract are not liable for the consequences of
-> any failure to perform, or default in performing, any of their
-> obligations under this Agreement, if that failure or default is caused
-> by any unforeseeable Force Majeure, beyond the control of, and without
-> the fault or negligence of, the respective party. For the purposes of
-> this Agreement, Force Majeure will mean war (whether declared or not);
-> revolution; invasion; insurrection; riot; civil commotion; sabotage;
-> military or usurped power; lightning; explosion; fire; storm; drought;
-> flood; earthquake; epidemic; quarantine; strikes; acts or restraints
-> of governmental authorities affecting the project or directly or
-> indirectly prohibiting or restricting the furnishing or use of
-> materials or labor required; inability to secure materials, machinery,
-> equipment or labor because of priority, allocation or other
-> regulations of any governmental authorities.
+**Article 5. Termination.**
 
-**Appendix B^2^**
+The Project Director, by written notice, may terminate this contract,
+in whole or in part, when it is in the best interest of the State. In
+the absence of a breach of contract by the contractor, the State is
+liable only for payment in accordance with the payment provisions of
+this contract for services rendered before the effective date of
+termination.
 
-**Indemnity and Insurance**
+**Article 6. No Assignment or Delegation.**
 
-> **Article 1. Indemnification**
->
-> The Contractor shall indemnify, hold harmless, and defend the
-> contracting agency from and against any claim of, or liability for
-> error, omission or negligent act of the Contractor under this
-> agreement. The Contractor shall not be required to indemnify the
-> contracting agency for a claim of, or liability for, the independent
-> negligence of the contracting agency. If there is a claim of, or
-> liability for, the joint negligent error or omission of the Contractor
-> and the independent negligence of the Contracting agency, the
-> indemnification and hold harmless obligation shall be apportioned on a
-> comparative fault basis. "Contractor" and "Contracting agency", as
-> used within this and the following article, include the employees,
-> agents and other contractors who are directly responsible,
-> respectively, to each. The term "independent negligence" is negligence
-> other than in the Contracting agency's selection, administration,
-> monitoring, or controlling of the Contractor and in approving or
-> accepting the Contractor's work.
->
-> **Article 2. Insurance**
->
-> Without limiting contractor\'s indemnification, it is agreed that
-> contractor shall purchase at its own expense and maintain in force at
-> all times during the performance of services under this agreement the
-> following policies of insurance. Where specific limits are shown, it
-> is understood that they shall be the minimum acceptable limits. If the
-> contractor\'s policy contains higher limits, the state shall be
-> entitled to coverage to the extent of such higher limits. Certificates
-> of Insurance must be furnished to the contracting officer prior to
-> beginning work and must provide for a **notice of cancellation**,
-> non-renewal, or material change of conditions **in accordance with
-> policy provisions**. Failure to furnish satisfactory evidence of
-> insurance or lapse of the policy is a material breach of this contract
-> and shall be grounds for termination of the contractor\'s services.
-> All insurance policies shall comply with and be issued by insurers
-> licensed to transact the business of insurance under AS 21.
->
-> **2.1 Workers\' Compensation Insurance:** The Contractor will provide
-> a letter stating that they work independently;\
-> therefore have no need to carry Workers Compensation coverage.
->
-> **2.2 Commercial General Liability Insurance:** covering all business
-> premises and operations\
-> used by the Contractor in the performance of services under this
-> agreement with minimum coverage limits\
-> of \$300,000 combined single limit per claim.
->
-> **2.3 Commercial Automobile Liability Insurance:** covering all
-> vehicles used by the Contractor\
-> in the performance of services under this agreement with minimum
-> coverage limits of\
-> \$300,000 combined single limit per claim.
->
-> **2.4 Professional Liability Insurance:** covering all errors,
-> omissions or negligent acts\
-> in the performance of professional services under this agreement.\
-> Limits required per the following schedule:
+The contractor may not assign or delegate this contract, or any part
+of it, or any right to any of the money to be paid under it, except
+with the written consent of the Project Director and the Agency Head.
 
-**Contract Amount Minimum Required Limits**
+**Article 7. No Additional Work or Material.**
 
-Under \$100,000 \$ 300,000 per Claim / Annual Aggregate
+No claim for additional services, not specifically provided in this
+contract, performed or furnished by the contractor, will be allowed,
+nor may the contractor do any work or furnish any material not covered
+by the contract unless the work or material is ordered in writing by
+the Project Director and approved by the Agency Head.
 
-\$ 100,000 - \$499,999 \$ 500,000 per Claim / Annual Aggregate
+**Article 8. Independent Contractor.**
 
-\$ 500,000 - \$999,999 \$1,000,000 per Claim / Annual Aggregate
+The contractor and any agents and employees of the contractor act in
+an independent capacity and are not officers or employees or agents of
+the State in the performance of this contract.
 
-> \$ 1,000,000 or over Refer to Risk Management
+**Article 9. Payment of Taxes.**
 
-**\
-**
+As a condition of performance of this contract, the contractor shall
+pay all federal, State, and local taxes incurred by the contractor and
+shall require their payment by any Subcontractor or any other persons
+in the performance of this contract. Satisfactory performance of this
+paragraph is a condition precedent to payment by the State under this
+contract.
 
-**Appendix C**
+**Article 10. Ownership of Documents.**
 
-**Description of Services**
+All designs, drawings, specifications, notes, artwork, and other work
+developed in the performance of this agreement are produced for hire
+and remain the sole property of the State of Alaska and may be used by
+the State for any other purpose without additional compensation to the
+contractor. The contractor agrees not to assert any rights and not to
+establish any claim under the design patent or copyright laws.
+Nevertheless, if the contractor does mark such documents with a
+statement suggesting they are trademarked, copyrighted, or otherwise
+protected against the State's unencumbered use or distribution, the
+contractor agrees that this paragraph supersedes any such statement
+and renders it void. The contractor, for a period of three years after
+final payment under this contract, agrees to furnish and provide
+access to all retained materials at the request of the Project
+Director. Unless otherwise directed by the Project Director, the
+contractor may retain copies of all the materials.
 
-> *Should there be a conflict among documents. The following order of
-> precedence shall govern the resolution of conflicts:*
->
-> *[First,]{.underline} this contract document,*
->
-> *[Second]{.underline}, the RFP,*
->
-> *[Third]{.underline}, the proposal.*
+**Article 11. Governing Law; Forum Selection**
 
-***Appendix D***
+This contract is governed by the laws of the State of Alaska. To the
+extent not otherwise governed by Article 3 of this Appendix, any claim
+concerning this contract shall be brought only in the Superior Court
+of the State of Alaska and not elsewhere.
 
-***Payment for Services***
+**Article 12. Conflicting Provisions.**
 
-> Payment for services provided under this contract shall not exceed
-> **\$0,000.00** for the period of performance of this contract.
->
-> The Contractor will submit detailed invoice(s) for services performed
-> in accordance with Appendix C.
->
-> The State will pay all invoices within thirty (30) days of invoice
-> approval by the Project Director. 
->
-> Each invoice must:
+Unless specifically amended and approved by the Department of Law, the
+terms of this contract supersede any provisions the contractor may
+seek to add. The contractor may not add additional or different terms
+to this contract; AS 45.02.207(b)(1). The contractor specifically
+acknowledges and agrees that, among other things, provisions in any
+documents it seeks to append hereto that purport to (1) waive the
+State of Alaska's sovereign immunity, (2) impose indemnification
+obligations on the State of Alaska, or (3) limit liability of the
+contractor for acts of contractor negligence, are expressly superseded
+by this contract and are void.
+
+**Article 13. Officials Not to Benefit.**
+**Contractor must comply with all applicable federal or State laws
+regulating ethical conduct of public officers and employees.**
+**Article 14. Covenant Against Contingent Fees.**
+
+The contractor warrants that no person or agency has been employed or
+retained to solicit or secure this contract upon an agreement or
+understanding for a commission, percentage, brokerage or contingent
+fee except employees or agencies maintained by the contractor for the
+purpose of securing business. For the breach or violation of this
+warranty, the State may terminate this contract without liability or
+in its discretion deduct from the contract price or consideration the
+full amount of the commission, percentage, brokerage or contingent
+fee.
+
+**Article 15. Compliance.**
+
+In the performance of this contract, the contractor must comply with
+all applicable federal, state, and borough regulations, codes, and
+laws, and be liable for all required insurance, licenses, permits and
+bonds.
+
+**Article 16. Force Majeure:**
+
+The parties to this contract are not liable for the consequences of
+any failure to perform, or default in performing, any of their
+obligations under this Agreement, if that failure or default is caused
+by any unforeseeable Force Majeure, beyond the control of, and without
+the fault or negligence of, the respective party. For the purposes of
+this Agreement, Force Majeure will mean war (whether declared or not);
+revolution; invasion; insurrection; riot; civil commotion; sabotage;
+military or usurped power; lightning; explosion; fire; storm; drought;
+flood; earthquake; epidemic; quarantine; strikes; acts or restraints
+of governmental authorities affecting the project or directly or
+indirectly prohibiting or restricting the furnishing or use of
+materials or labor required; inability to secure materials, machinery,
+equipment or labor because of priority, allocation or other
+regulations of any governmental authorities.
+
+<p align="center"><strong>
+Appendix B
+</p>
+<p align="center">
+Indemnity and Insurance</strong>
+</p>
+
+**Article 1. Indemnification**
+
+The Contractor shall indemnify, hold harmless, and defend the
+contracting agency from and against any claim of, or liability for
+error, omission or negligent act of the Contractor under this
+agreement. The Contractor shall not be required to indemnify the
+contracting agency for a claim of, or liability for, the independent
+negligence of the contracting agency. If there is a claim of, or
+liability for, the joint negligent error or omission of the Contractor
+and the independent negligence of the Contracting agency, the
+indemnification and hold harmless obligation shall be apportioned on a
+comparative fault basis. "Contractor" and "Contracting agency", as
+used within this and the following article, include the employees,
+agents and other contractors who are directly responsible,
+respectively, to each. The term "independent negligence" is negligence
+other than in the Contracting agency's selection, administration,
+monitoring, or controlling of the Contractor and in approving or
+accepting the Contractor's work.
+
+**Article 2. Insurance**
+
+Without limiting contractor\'s indemnification, it is agreed that
+contractor shall purchase at its own expense and maintain in force at
+all times during the performance of services under this agreement the
+following policies of insurance. Where specific limits are shown, it
+is understood that they shall be the minimum acceptable limits. If the
+contractor\'s policy contains higher limits, the state shall be
+entitled to coverage to the extent of such higher limits. Certificates
+of Insurance must be furnished to the contracting officer prior to
+beginning work and must provide for a notice of cancellation,
+non-renewal, or material change of conditions in accordance with
+policy provisions. Failure to furnish satisfactory evidence of
+insurance or lapse of the policy is a material breach of this contract
+and shall be grounds for termination of the contractor's services.
+All insurance policies shall comply with and be issued by insurers
+licensed to transact the business of insurance under AS 21.
+
+**2.1 Workers' Compensation Insurance:** The Contractor will provide
+a letter stating that they work independently; therefore have no need to carry Workers Compensation coverage.
+
+**2.2 Commercial General Liability Insurance:** covering all business
+premises and operations used by the Contractor in the performance of services under this
+agreement with minimum coverage limits
+of $300,000 combined single limit per claim.
+
+**2.3 Commercial Automobile Liability Insurance:** covering all
+vehicles used by the Contractor in the performance of services under this agreement with minimum
+coverage limits of $300,000 combined single limit per claim.
+
+**2.4 Professional Liability Insurance:** covering all errors, omissions or negligent acts
+in the performance of professional services under this agreement. Limits required per the following schedule:
+
+**Contract Amount** | **Minimum Required Limit** 
+--- | ---
+Under $100,000 | $300,000 per Claim / Annual Aggregate
+$100,000 - $499,999 | $500,000 per Claim / Annual Aggregate
+$500,000 - $999,999 | $1,000,000 per Claim / Annual Aggregate
+$1,000,000 or over  | Refer to Risk Management
+
+<p align="center"><strong>
+Appendix C
+</p>
+<p align="center">
+Description of Services</strong>
+</p>
+
+*Should there be a conflict among documents. The following order of
+precedence shall govern the resolution of conflicts:*
+
+**First**, this contract document,
+
+**Second**, the RFP,
+
+**Third**, the proposal.
+
+<p align="center"><strong>
+Appendix D
+</p>
+<p align="center">
+Payment for Services</strong>
+</p>
+
+Payment for services provided under this contract shall not exceed
+**$0,000.00** for the period of performance of this contract.
+
+The Contractor will submit detailed invoice(s) for services performed
+in accordance with Appendix C.
+
+The State will pay all invoices within thirty (30) days of invoice
+approval by the Project Director. 
+
+Each invoice must:
 
 -   reference the Contractor's name, address and phone number;
 
@@ -2571,19 +2212,17 @@ Under \$100,000 \$ 300,000 per Claim / Annual Aggregate
 -   itemize the contractual services provided during the period invoiced
     as described in Appendix C.
 
-> The Contractor shall submit invoices to the email address specified
-> below no later than 30 days after the end of each month for which
-> services were performed. Failure to include the required information
-> on the invoice may cause an unavoidable delay to the payment process.
->
-> Email invoices to:
->
-> [[hss.fms.contracts.invoicing\@alaska.gov]{.underline}](mailto:hss.fms.contracts.invoicing@alaska.gov)
->
-> (please reference the contract number in the subject line)
->
-> Notwithstanding any other provision of this contract, it is understood
-> and agreed that the State shall withhold payment at any time the
-> Contractor fails to perform work as required under Appendix C and/or D
-> of this contract.
+The Contractor shall submit invoices to the email address specified
+below no later than 30 days after the end of each month for which
+services were performed. Failure to include the required information
+on the invoice may cause an unavoidable delay to the payment process.
+
+Email invoices to:
+[hss.fms.contracts.invoicing\@alaska.gov]
+(please reference the contract number in the subject line)
+
+Notwithstanding any other provision of this contract, it is understood
+and agreed that the State shall withhold payment at any time the
+Contractor fails to perform work as required under Appendix C and/or D
+of this contract.
 
