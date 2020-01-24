@@ -1545,7 +1545,7 @@ The total points possible for the technical evaluation sections above
 is 500.
 The remaining 300 points are allocated to cost (300).
 
-SEC. 8.04 APPENDIX 4 -- FEDERAL REQUIREMENTS
+### <a name="8.04"></a>SEC. 8.04 APPENDIX 4 -- FEDERAL REQUIREMENTS
 --------------------------------------------
 
 The Implementation contractor must comply with the following
@@ -1765,7 +1765,7 @@ b.  Where the applicant is unable to certify to any of the statements in
     contract under a grant or sub-grant or any rights of copyright to
     which a contractor purchases ownership.
 
-SEC. 8.05 APPENDIX 5 -- CERTIFICATION REGARDING DEBARMENT
+### <a name="8.05"></a>SEC. 8.05 APPENDIX 5 -- CERTIFICATION REGARDING DEBARMENT
 ---------------------------------------------------------
 
 **Certification Regarding Debarment, Suspension, Ineligibility\
@@ -1881,7 +1881,7 @@ participation in this transaction, in addition to other remedies
 available to the Federal Government, the DOL may pursue available
 remedies, including suspension and/or debarment.
 
-SEC. 8.06 APPENDIX 6 -- TEMPLATE STANDARD AGREEMENT FORM
+### <a name="8.06"></a>SEC. 8.06 APPENDIX 6 -- TEMPLATE STANDARD AGREEMENT FORM
 --------------------------------------------------------
 
 ![Standard Agreement Form for Professional Services](media/standard-agreement-form.png)
