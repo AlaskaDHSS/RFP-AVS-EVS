@@ -1369,7 +1369,7 @@ submission deadline.
 
 **Did the offeror submit the cost proposal separately? yes / no**
 
-SEC. 8.03 APPENDIX 3 -- PROPOSAL EVALUATION FORM
+### <a name="8.03"></a>SEC. 8.03 APPENDIX 3 -- PROPOSAL EVALUATION FORM
 ------------------------------------------------
 
 All proposals will be reviewed for responsiveness and then evaluated
@@ -1385,203 +1385,198 @@ Initials of Proposal Evaluation (PEC) Member:
 Date of Review:
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 RFP Number:
-\_\_\_\_\_[200000034]{.underline}\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> **Procurement Officer Note: ALTER, REVISE, OR DELETE AS REQUIRED.**
->
-> **5.01 Understanding of the Project -- 20% (200 points)**
+\_\_\_\_\_[200000034]\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+**5.01 Understanding of the Project -- 20% (200 points)**
 
 1)  How well has the offeror demonstrated an understanding of the
     purpose and scope of the project?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 2)  How well has the offeror identified pertinent issues and potential
     problems related to the project?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 3)  Has the offeror demonstrated an understanding of the deliverables
     the state expects it to provide?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 4)  Has the offeror demonstrated an understanding of the state\'s time
     schedule and their ability to meet it?
 
-> **Evaluator\'s Notes:**
->
-> **Evaluator\'s Point Total for
-> 5.01:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> **\
-> Procurement Officer Note: ALTER, REVISE, OR DELETE AS REQUIRED.**
->
-> **5.02 Methodology -- 5% (50 points)**
+**Evaluator\'s Notes:**
+
+**Evaluator\'s Point Total for
+5.01:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+
+**5.02 Methodology -- 5% (50 points)**
 
 1)  How comprehensive is the methodology and does it depict a logical
     and achievable approach\
     to fulfilling the requirements of the RFP?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 2)  How well does the methodology match and achieve the objectives set
     out in the RFP?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 3)  Does the methodology interface with the time schedule indicated in
     the RFP?
 
-> **Evaluator\'s Notes:**
->
-> **Evaluator\'s Point Total for 5.02:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> **5.03 Management Plan -- 5% (50 points)**
+**Evaluator\'s Notes:**
+
+**Evaluator\'s Point Total for 5.02:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**5.03 Management Plan -- 5% (50 points)**
 
 1)  How well does the management plan support all of the project
     requirements\
     and logically lead to the deliverables required in the RFP?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 2)  How well is accountability completely and clearly defined?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 3)  Is the organization of the project team clear?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 4)  How well does the management plan illustrate the lines of authority
     and communication?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 5)  To what extent does the offeror already have the hardware, software,
     equipment, and licenses necessary\
     to perform the contract?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 6)  Does it appear that the offeror can meet the schedule set out in the
     RFP?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 7)  Has the offeror gone beyond the minimum tasks necessary to meet the
     objectives of the RFP?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 8)  To what degree is the proposal practical and feasible?
 
-> **Evaluator\'s Notes:**
+**Evaluator\'s Notes:**
 
 9)  To what extent has the offeror identified potential problems?
 
-> **Evaluator\'s Notes:**
->
-> **Evaluator\'s Point Total for 5.02:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> **5.04 Experience and Qualifications -- 10% (100 points)**
->
-> *Questions regarding the personnel:*
+**Evaluator\'s Notes:**
 
-1)  Do the individuals assigned to the project have experience on
-    > similar projects?
+**Evaluator\'s Point Total for 5.02:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-> **Evaluator\'s Notes:**
+**5.04 Experience and Qualifications -- 10% (100 points)**
+
+*Questions regarding the personnel:*
+
+1)  Do the individuals assigned to the project have experience on similar projects?
+
+**Evaluator\'s Notes:**
 
 2)  Are resumes complete and do they demonstrate backgrounds that would
-    > be desirable for individuals engaged in the work the project
-    > requires?
+    be desirable for individuals engaged in the work the project
+    requires?
 
-> **Evaluator\'s Notes:**
+**Evaluator's Notes:**
 
 3)  How extensive is the applicable education and experience of the
-    > personnel designated to work on the project?
+    personnel designated to work on the project?
 
-> **Evaluator\'s Notes:**
->
-> *Questions regarding the firm and subcontractor (if used):*
+**Evaluator's Notes:**
+
+*Questions regarding the firm and subcontractor (if used):*
 
 1)  How well has the firm demonstrated experience in completing similar
     projects on time and within budget?
 
-> **Evaluator\'s Notes:**
+**Evaluator's Notes:**
 
 2)  How successful is the general history of the firm regarding timely
     and successful completion of projects?
 
-> **Evaluator\'s Notes:**
+**Evaluator's Notes:**
 
 3)  Has the firm provided letters of reference from previous clients?
 
-> **Evaluator\'s Notes:**
+**Evaluator's Notes:**
 
 4)  If a subcontractor will perform work on the contract, how well do
-    they measure up to the evaluation\
+    they measure up to the evaluation
     used for the offeror?
 
-> **Evaluator\'s Notes:**
->
-> **Evaluator\'s Point Total for 5.04:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> **5.05 Verbal Presentation -- 30% (300 points)**
->
-> The State will evaluate the offeror's response to questions regarding
-> the technical aspects of the proposal\
-> as discussed during the verbal presentation.
->
-> **Evaluator\'s Notes:**
->
-> **Evaluator\'s Point Total for 5.05:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> **Total of All Sections Above (5.01 - 5.05):
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
-> The total points possible for the technical evaluation sections above
-> is 500.\
-> The remaining 300 points are allocated to cost (300).**\
-> **
+**Evaluator's Notes:**
+
+**Evaluator's Point Total for 5.04:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**5.05 Verbal Presentation -- 30% (300 points)**
+
+The State will evaluate the offeror's response to questions regarding
+the technical aspects of the proposal
+as discussed during the verbal presentation.
+
+**Evaluator's Notes:**
+
+**Evaluator's Point Total for 5.05:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Total of All Sections Above (5.01 - 5.05):
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+The total points possible for the technical evaluation sections above
+is 500.
+The remaining 300 points are allocated to cost (300).
 
 SEC. 8.04 APPENDIX 4 -- FEDERAL REQUIREMENTS
 --------------------------------------------
 
-> The Implementation contractor must comply with the following
-> provisions:
+The Implementation contractor must comply with the following
+provisions:
 
 1.  Executive Order 11246, entitled "Equal Employment Opportunity," as
-    > amended by Executive Order 11375, and as supplemented by the
-    > Department of Labor Regulations (41 CFR Part 60): The Executive
-    > Order prohibits federal contractors and federally-assisted
-    > construction contractors and subcontractors who do over \$10,000
-    > in Government business in one year from discriminating in
-    > employment decisions on the basis of race, color, religion, sex,
-    > or national origin. The Executive Order also requires Government
-    > contractors to take affirmative action to ensure that equal
-    > opportunity is provided in all aspects of their employment.
+    amended by Executive Order 11375, and as supplemented by the
+    Department of Labor Regulations (41 CFR Part 60): The Executive
+    Order prohibits federal contractors and federally-assisted
+    construction contractors and subcontractors who do over \$10,000
+    in Government business in one year from discriminating in
+    employment decisions on the basis of race, color, religion, sex,
+    or national origin. The Executive Order also requires Government
+    contractors to take affirmative action to ensure that equal
+    opportunity is provided in all aspects of their employment.
 
-> 2\. **The Clean Air Act, Section 306:**
->
-> No Federal agency may enter into any contract with any person who is
-> convicted of any offense under section 113(c) for the procurement of
-> goods, materials, and services to perform such contract at any
-> facility at which the violation which gave rise to such conviction
-> occurred if such facility is owned, leased, or supervised by such
-> person. The prohibition in the preceding sentence shall continue until
-> the Administrator certifies that the condition giving rise to such a
-> conviction has been corrected. For convictions arising under section
-> 113(c)(2), the condition giving rise to the conviction also shall be
-> considered to include any substantive violation of this Act associated
-> with the violation of 113(c)(2). The Administrator may extend this
-> prohibition to other facilities owned or operated by the convicted
-> person.
+2. **The Clean Air Act, Section 306:**
+
+No Federal agency may enter into any contract with any person who is
+convicted of any offense under section 113(c) for the procurement of
+goods, materials, and services to perform such contract at any
+facility at which the violation which gave rise to such conviction
+occurred if such facility is owned, leased, or supervised by such
+person. The prohibition in the preceding sentence shall continue until
+the Administrator certifies that the condition giving rise to such a
+conviction has been corrected. For convictions arising under section
+113(c)(2), the condition giving rise to the conviction also shall be
+considered to include any substantive violation of this Act associated
+with the violation of 113(c)(2). The Administrator may extend this
+prohibition to other facilities owned or operated by the convicted
+person.
 
 a.  The Administrator shall establish procedures to provide all Federal
     agencies with the notification necessary for the purposes of
@@ -1608,14 +1603,9 @@ d.  The President shall annually report to the Congress on measures
     including but not limited to the progress and problems associated
     with implementation of this section. \[42 U.S.C. 7606\]
 
-```{=html}
-<!-- -->
-```
+
 3.  **The Clean Water Act:**
 
-```{=html}
-<!-- -->
-```
 a.  No Federal agency may enter into any contract with any person who
     has been convicted of any offense under Section 309(c) of this Act
     for the procurement of goods, materials, and services if such
@@ -1635,21 +1625,15 @@ c.  In order to implement the purposes and policy of this Act to protect
     not more than 180 days after the enactment of this Act, cause to be
     issued an order:
 
-```{=html}
-<!-- -->
-```
-i.  requiring each Federal agency authorized to enter into contracts and
-    each Federal agency which is empowered to extend Federal assistance
-    by way of grant, loan, or contract to effectuate the purpose and
-    policy of this Act in such contracting or assistance activities, and
+    i.  requiring each Federal agency authorized to enter into contracts and
+       each Federal agency which is empowered to extend Federal assistance
+       by way of grant, loan, or contract to effectuate the purpose and
+       policy of this Act in such contracting or assistance activities, and
 
-ii. setting forth procedures, sanctions, penalties, and such other
-    provisions, as the President determines necessary to carry out such
-    requirement.
+    ii. setting forth procedures, sanctions, penalties, and such other
+        provisions, as the President determines necessary to carry out such
+        requirement.
 
-```{=html}
-<!-- -->
-```
 d.  The President may exempt any contract, loan, or grant from all or
     part of the provisions of this section where he determines such
     exemption is necessary in the paramount interest of the United
@@ -1660,31 +1644,25 @@ e.  The President shall annually report to the Congress on measures
     including, but not limited to, the progress and problems associated
     with such compliance.
 
-f.  \(1\) No certification by a contractor, and no contract clause, may
-    be required in the case of a contract for the acquisition of
-    commercial items in order to implement a prohibition or requirement
-    of this section or a prohibition or requirement issued in the
-    implementation of this section.
+f.  (1) No certification by a contractor, and no contract clause, may
+        be required in the case of a contract for the acquisition of
+        commercial items in order to implement a prohibition or requirement
+        of this section or a prohibition or requirement issued in the
+        implementation of this section.
 
-    \(2\) In paragraph (1), the term "commercial item" has the meaning
-    given such term in section 4(12) of the Office of Federal
-    Procurement Policy Act (41 U.S.C. 403(12)).
+   (2) In paragraph (1), the term "commercial item" has the meaning
+       given such term in section 4(12) of the Office of Federal
+       Procurement Policy Act (41 U.S.C. 403(12)).
 
-```{=html}
-<!-- -->
-```
-1.  **The Anti-Lobbying Act**: This Act prohibits the recipients of
-    > federal contracts, grants, and loans from using appropriated funds
-    > for lobbying the Executive or Legislative Branches of the federal
-    > government in connection with a specific contract, grant, or loan.
-    > As required by Section 1352, Title 31 of the U.S. Code and
-    > implemented at 34 CFR Part 82 for persons entering into a grant or
-    > cooperative agreement over \$100,000, as defined at 34 CFR Part
-    > 82, Section 82.105 and 82.110, the applicant certifies that:
+4.  **The Anti-Lobbying Act**: This Act prohibits the recipients of
+    federal contracts, grants, and loans from using appropriated funds
+    for lobbying the Executive or Legislative Branches of the federal
+    government in connection with a specific contract, grant, or loan.
+    As required by Section 1352, Title 31 of the U.S. Code and
+    implemented at 34 CFR Part 82 for persons entering into a grant or
+    cooperative agreement over \$100,000, as defined at 34 CFR Part
+    82, Section 82.105 and 82.110, the applicant certifies that:
 
-```{=html}
-<!-- -->
-```
 a.  No federal appropriated funds have been paid or will be paid, by or
     on behalf of the undersigned, to any person for influencing or
     attempting to influence an officer or employee of any agency, a
@@ -1709,31 +1687,25 @@ c.  The undersigned shall require that the language of this
     cooperative agreements, and subcontracts) and that all
     sub-recipients shall certify and disclose accordingly.
 
-```{=html}
-<!-- -->
-```
-2.  **Americans with Disabilities Act**: This Act (28 CFR Part 35, Title
-    > II, Subtitle A) prohibits discrimination on the basis of
-    > disability in all services, programs, and activities provided to
-    > the public by State and local governments, except public
-    > transportation services.
+5.  **Americans with Disabilities Act**: This Act (28 CFR Part 35, Title
+    II, Subtitle A) prohibits discrimination on the basis of
+    disability in all services, programs, and activities provided to
+    the public by State and local governments, except public
+    transportation services.
 
-3.  **Drug Free Workplace Statement**: The Federal government
-    > implemented the Drug Free Workplace Act of 1988 in an attempt to
-    > address the problems of drug abuse on the job. It is a fact that
-    > employees who use drugs have less productivity, a lower quality of
-    > work, and a higher absenteeism, and are more likely to
-    > misappropriate funds or services. From this perspective, the drug
-    > abuser may endanger other employees, the public at large, or
-    > themselves. Damage to property, whether owned by this entity or
-    > not, could result from drug abuse on the job. All these actions
-    > might undermine public confidence in the services this entity
-    > provides. Therefore, in order to remain a responsible source for
-    > government contracts, the following guidelines have been adopted:
-
-```{=html}
-<!-- -->
-```
+6.  **Drug Free Workplace Statement**: The Federal government
+    implemented the Drug Free Workplace Act of 1988 in an attempt to
+    address the problems of drug abuse on the job. It is a fact that
+    employees who use drugs have less productivity, a lower quality of
+    work, and a higher absenteeism, and are more likely to
+    misappropriate funds or services. From this perspective, the drug
+    abuser may endanger other employees, the public at large, or
+    themselves. Damage to property, whether owned by this entity or
+    not, could result from drug abuse on the job. All these actions
+    might undermine public confidence in the services this entity
+    provides. Therefore, in order to remain a responsible source for
+    government contracts, the following guidelines have been adopted:
+    
 a.  The unlawful manufacture, distribution, dispensation, possession or
     use of a controlled substance is prohibited in the work place.
 
@@ -1751,61 +1723,48 @@ d.  Although alcohol is not a controlled substance, it is nonetheless a
 e.  Contractors of federal agencies are required to certify that they
     will provide drug-free workplaces for their employees.
 
-```{=html}
-<!-- -->
-```
-4.  **Debarment, suspension, and other responsibility matters**: As
+7.  **Debarment, suspension, and other responsibility matters**: As
     > required by Executive Order 12549, Debarment and Suspension, and
     > implemented at 34 CFR Part 85, for prospective participants in
     > primary covered transactions, as defined at 34 CFR Part 85,
     > Sections 85.105 and 85.110.
 
-```{=html}
-<!-- -->
-```
 a.  The applicant certifies that it and its principals:
 
-```{=html}
-<!-- -->
-```
-i.  Are not presently debarred, suspended, proposed for debarment,
-    declared ineligible, or voluntarily excluded from covered
-    transactions by any federal department or agency;
+    i.  Are not presently debarred, suspended, proposed for debarment,
+        declared ineligible, or voluntarily excluded from covered
+        transactions by any federal department or agency;
 
-ii. Have not within a three-year period preceding this application been
-    convicted of or had a civil judgment rendered against them for
-    commission of fraud or a criminal offense in connection with
-    obtaining, attempting to obtain, or performing a public (federal,
-    state, or local) transaction or contract under a public transaction;
-    violation of federal or state antitrust statutes or commission of
-    embezzlement, theft, forgery, bribery, falsification or destruction
-    of records, making false statements, or receiving stolen property;
+    ii. Have not within a three-year period preceding this application been
+        convicted of or had a civil judgment rendered against them for
+        commission of fraud or a criminal offense in connection with
+        obtaining, attempting to obtain, or performing a public (federal,
+        state, or local) transaction or contract under a public transaction;
+        violation of federal or state antitrust statutes or commission of
+        embezzlement, theft, forgery, bribery, falsification or destruction
+        of records, making false statements, or receiving stolen property;
 
-iii. Are not presently indicted for or otherwise criminally or civilly
-     charged by a governmental entity (federal, state, or local) with
-     commission of any of the offenses enumerated in paragraph (1)(b) of
-     this certification; and
+    iii. Are not presently indicted for or otherwise criminally or civilly
+         charged by a governmental entity (federal, state, or local) with
+         commission of any of the offenses enumerated in paragraph (1)(b) of
+         this certification; and
 
-iv. Have not within a three-year period preceding this application had
-    one or more public transactions (federal, state, or local)
-    terminated for cause or default.
+    iv. Have not within a three-year period preceding this application had
+        one or more public transactions (federal, state, or local)
+        terminated for cause or default.
 
-```{=html}
-<!-- -->
-```
+
 b.  Where the applicant is unable to certify to any of the statements in
     this certification, he or she shall attach an explanation to this
     application.
 
-```{=html}
-<!-- -->
-```
-5.  The federal government reserves a royalty-free, non-exclusive, and
-    > irrevocable license to reproduce, publish, or otherwise use, and
-    > to authorize others to use, for federal government purposes, the
-    > copyright in any work developed under a grant, sub-grant, or
-    > contract under a grant or sub-grant or any rights of copyright to
-    > which a contractor purchases ownership.
+
+8.  The federal government reserves a royalty-free, non-exclusive, and
+    irrevocable license to reproduce, publish, or otherwise use, and
+    to authorize others to use, for federal government purposes, the
+    copyright in any work developed under a grant, sub-grant, or
+    contract under a grant or sub-grant or any rights of copyright to
+    which a contractor purchases ownership.
 
 SEC. 8.05 APPENDIX 5 -- CERTIFICATION REGARDING DEBARMENT
 ---------------------------------------------------------
