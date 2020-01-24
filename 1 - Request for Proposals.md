@@ -1384,8 +1384,8 @@ Initials of Proposal Evaluation (PEC) Member:
 
 Date of Review:
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-RFP Number:
-\_\_\_\_\_[200000034]\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ 
+RFP Number: 200000034
 
 
 **5.01 Understanding of the Project -- 20% (200 points)**
@@ -1551,32 +1551,31 @@ SEC. 8.04 APPENDIX 4 -- FEDERAL REQUIREMENTS
 The Implementation contractor must comply with the following
 provisions:
 
-1.  Executive Order 11246, entitled "Equal Employment Opportunity," as
-    amended by Executive Order 11375, and as supplemented by the
-    Department of Labor Regulations (41 CFR Part 60): The Executive
-    Order prohibits federal contractors and federally-assisted
-    construction contractors and subcontractors who do over \$10,000
-    in Government business in one year from discriminating in
-    employment decisions on the basis of race, color, religion, sex,
-    or national origin. The Executive Order also requires Government
-    contractors to take affirmative action to ensure that equal
-    opportunity is provided in all aspects of their employment.
+1. Executive Order 11246, entitled "Equal Employment Opportunity," as
+   amended by Executive Order 11375, and as supplemented by the
+   Department of Labor Regulations (41 CFR Part 60): The Executive
+   Order prohibits federal contractors and federally-assisted
+   construction contractors and subcontractors who do over \$10,000
+   in Government business in one year from discriminating in
+   employment decisions on the basis of race, color, religion, sex,
+   or national origin. The Executive Order also requires Government
+   contractors to take affirmative action to ensure that equal
+   opportunity is provided in all aspects of their employment.
 
 2. **The Clean Air Act, Section 306:**
-
-No Federal agency may enter into any contract with any person who is
-convicted of any offense under section 113(c) for the procurement of
-goods, materials, and services to perform such contract at any
-facility at which the violation which gave rise to such conviction
-occurred if such facility is owned, leased, or supervised by such
-person. The prohibition in the preceding sentence shall continue until
-the Administrator certifies that the condition giving rise to such a
-conviction has been corrected. For convictions arising under section
-113(c)(2), the condition giving rise to the conviction also shall be
-considered to include any substantive violation of this Act associated
-with the violation of 113(c)(2). The Administrator may extend this
-prohibition to other facilities owned or operated by the convicted
-person.
+    No Federal agency may enter into any contract with any person who is
+    convicted of any offense under section 113(c) for the procurement of
+    goods, materials, and services to perform such contract at any
+    facility at which the violation which gave rise to such conviction
+    occurred if such facility is owned, leased, or supervised by such
+    person. The prohibition in the preceding sentence shall continue until
+    the Administrator certifies that the condition giving rise to such a
+    conviction has been corrected. For convictions arising under section
+    113(c)(2), the condition giving rise to the conviction also shall be
+    considered to include any substantive violation of this Act associated
+    with the violation of 113(c)(2). The Administrator may extend this
+    prohibition to other facilities owned or operated by the convicted
+    person.
 
 a.  The Administrator shall establish procedures to provide all Federal
     agencies with the notification necessary for the purposes of
@@ -1606,8 +1605,8 @@ d.  The President shall annually report to the Congress on measures
 
 3.  **The Clean Water Act:**
 
-a.  No Federal agency may enter into any contract with any person who
-    has been convicted of any offense under Section 309(c) of this Act
+    a.  No Federal agency may enter into any contract with any person who
+        has been convicted of any offense under Section 309(c) of this Act
     for the procurement of goods, materials, and services if such
     contract is to be performed at any facility at which the violation
     which gave rise to such conviction occurred, and if such facility is
@@ -1625,12 +1624,12 @@ c.  In order to implement the purposes and policy of this Act to protect
     not more than 180 days after the enactment of this Act, cause to be
     issued an order:
 
-    i.  requiring each Federal agency authorized to enter into contracts and
+   i.  requiring each Federal agency authorized to enter into contracts and
        each Federal agency which is empowered to extend Federal assistance
        by way of grant, loan, or contract to effectuate the purpose and
        policy of this Act in such contracting or assistance activities, and
 
-    ii. setting forth procedures, sanctions, penalties, and such other
+   ii. setting forth procedures, sanctions, penalties, and such other
         provisions, as the President determines necessary to carry out such
         requirement.
 
@@ -1724,18 +1723,18 @@ e.  Contractors of federal agencies are required to certify that they
     will provide drug-free workplaces for their employees.
 
 7.  **Debarment, suspension, and other responsibility matters**: As
-    > required by Executive Order 12549, Debarment and Suspension, and
-    > implemented at 34 CFR Part 85, for prospective participants in
-    > primary covered transactions, as defined at 34 CFR Part 85,
-    > Sections 85.105 and 85.110.
+    required by Executive Order 12549, Debarment and Suspension, and
+    implemented at 34 CFR Part 85, for prospective participants in
+    primary covered transactions, as defined at 34 CFR Part 85,
+    Sections 85.105 and 85.110.
 
 a.  The applicant certifies that it and its principals:
 
-    i.  Are not presently debarred, suspended, proposed for debarment,
+   i.  Are not presently debarred, suspended, proposed for debarment,
         declared ineligible, or voluntarily excluded from covered
         transactions by any federal department or agency;
 
-    ii. Have not within a three-year period preceding this application been
+   ii. Have not within a three-year period preceding this application been
         convicted of or had a civil judgment rendered against them for
         commission of fraud or a criminal offense in connection with
         obtaining, attempting to obtain, or performing a public (federal,
@@ -1744,12 +1743,12 @@ a.  The applicant certifies that it and its principals:
         embezzlement, theft, forgery, bribery, falsification or destruction
         of records, making false statements, or receiving stolen property;
 
-    iii. Are not presently indicted for or otherwise criminally or civilly
+   iii. Are not presently indicted for or otherwise criminally or civilly
          charged by a governmental entity (federal, state, or local) with
          commission of any of the offenses enumerated in paragraph (1)(b) of
          this certification; and
 
-    iv. Have not within a three-year period preceding this application had
+   iv. Have not within a three-year period preceding this application had
         one or more public transactions (federal, state, or local)
         terminated for cause or default.
 
@@ -1769,120 +1768,120 @@ b.  Where the applicant is unable to certify to any of the statements in
 SEC. 8.05 APPENDIX 5 -- CERTIFICATION REGARDING DEBARMENT
 ---------------------------------------------------------
 
-> **Certification Regarding Debarment, Suspension, Ineligibility\
-> and Voluntary Exclusion Lower Tier Covered Transactions**
->
-> Expenditures from this contract may involve federal funds. The U.S.
-> Department of Labor requires\
-> all state agencies that are expending federal funds to have a
-> certification filed by the contractor that\
-> they have not been debarred or suspended from doing business with the
-> federal government.\
-> Certification regarding Debarment, Suspension, Ineligibility and
-> Voluntary Exclusion Lower Tier\
-> Covered Transactions must be signed along with the contract documents.
->
-> This certification is required by the regulations implementing
-> Executive Order 12549, Debarment\
-> and Suspension, 29 CFR Part 98, Section 98.510, Participant\'s
-> responsibilities. The regulations were\
-> published as Part VII of the May 26, 1988 Federal Register (pages
-> 19160-19211).
->
-> **Before completing this certification, read the instructions on the
-> following page,**
->
-> **which are an integral part of the certification.**
+**Certification Regarding Debarment, Suspension, Ineligibility\
+and Voluntary Exclusion Lower Tier Covered Transactions**
+
+Expenditures from this contract may involve federal funds. The U.S.
+Department of Labor requires
+all state agencies that are expending federal funds to have a
+certification filed by the contractor that
+they have not been debarred or suspended from doing business with the
+federal government.
+Certification regarding Debarment, Suspension, Ineligibility and
+Voluntary Exclusion Lower Tier
+Covered Transactions must be signed along with the contract documents.
+
+This certification is required by the regulations implementing
+Executive Order 12549, Debarment
+and Suspension, 29 CFR Part 98, Section 98.510, Participant's
+responsibilities. The regulations were
+published as Part VII of the May 26, 1988 Federal Register (pages
+19160-19211).
+
+**Before completing this certification, read the instructions on the
+following page,**
+
+**which are an integral part of the certification.**
 
 1.  The prospective recipient of Federal assistance funds certifies, by
-    > submission of this bid, that neither\
-    > it nor its principals are presently debarred, suspended, proposed
-    > for debarment, declared ineligible,\
-    > or voluntarily excluded from participation in this transaction by
-    > any Federal department or agency.
+    submission of this bid, that neither
+    it nor its principals are presently debarred, suspended, proposed
+    for debarment, declared ineligible,
+    or voluntarily excluded from participation in this transaction by
+    any Federal department or agency.
 
 2.  Where the prospective recipient of Federal assistance funds is
-    > unable to certify to any of the Statements\
-    > in this certification, such prospective participant shall attach
-    > an explanation to this Proposal.
+    unable to certify to any of the Statements
+    in this certification, such prospective participant shall attach
+    an explanation to this Proposal.
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> Name and Title of Authorized Representative
->
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> Signature Date
->
-> **Instructions for Certification**
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Name and Title of Authorized Representative
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Signature Date
+
+**Instructions for Certification**
 
 1.  By signing and submitting this Proposal, the prospective recipient
-    > of Federal assistance funds is providing the certification as set
-    > out below.
+    of Federal assistance funds is providing the certification as set
+    out below.
 
 2.  The certification in this class is a material representation of fact
-    > upon which reliance was placed when this transaction was entered
-    > into. If it is later determined that the prospective recipient of
-    > Federal assistance funds knowingly rendered an erroneous
-    > certification, in addition to other remedies available to the
-    > Federal Government, the Department of Labor (DOL) may pursue
-    > available remedies, including suspension and/or debarment.
+    upon which reliance was placed when this transaction was entered
+    into. If it is later determined that the prospective recipient of
+    Federal assistance funds knowingly rendered an erroneous
+    certification, in addition to other remedies available to the
+    Federal Government, the Department of Labor (DOL) may pursue
+    available remedies, including suspension and/or debarment.
 
 3.  The prospective recipient of Federal assistance funds shall provide
-    > immediate written notice to the person to whom this Proposal is
-    > submitted if at any time the prospective recipient of Federal
-    > assistance funds learns that its certification was erroneous when
-    > submitted or has become erroneous by reason of changed
-    > circumstances.
+    immediate written notice to the person to whom this Proposal is
+    submitted if at any time the prospective recipient of Federal
+    assistance funds learns that its certification was erroneous when
+    submitted or has become erroneous by reason of changed
+    circumstances.
 
 4.  The terms \"covered transaction,\" \"debarred,\" \"suspended,\"
-    > \"ineligible,\" \"lower tier covered transaction,\"
-    > \"participant,\" \"person,\" \"primary covered transaction,\"
-    > \"principal,\" \"Proposal,\" and \"voluntarily excluded,\" as used
-    > in this clause, have the meanings set out in the Definitions and
-    > Coverage sections of rules implementing Executive Order 12549. You
-    > may contact the personto which this Proposal is submitted for
-    > assistance in obtaining a copy of those regulations.
+    \"ineligible,\" \"lower tier covered transaction,\"
+    \"participant,\" \"person,\" \"primary covered transaction,\"
+    \"principal,\" \"Proposal,\" and \"voluntarily excluded,\" as used
+    in this clause, have the meanings set out in the Definitions and
+    Coverage sections of rules implementing Executive Order 12549. You
+    may contact the personto which this Proposal is submitted for
+    assistance in obtaining a copy of those regulations.
 
 5.  The prospective recipient of Federal assistance funds agrees by
-    > submitting this Proposal that, should the proposed covered
-    > transaction be entered into, it shall not knowingly enter into any
-    > lower tier covered transaction with a person who is debarred,
-    > suspended, declared ineligible, or voluntarily excluded from
-    > participation in this covered transaction, unless authorized by
-    > the DOL.
+    submitting this Proposal that, should the proposed covered
+    transaction be entered into, it shall not knowingly enter into any
+    lower tier covered transaction with a person who is debarred,
+    suspended, declared ineligible, or voluntarily excluded from
+    participation in this covered transaction, unless authorized by
+    the DOL.
 
 6.  The prospective recipient of Federal assistance funds further agrees
-    > by submitting this Proposal that it will include the clause titled
-    > \"Certification Regarding Debarment, Suspension, Ineligibility and
-    > Voluntary Exclusion - Lower Tier Covered Transactions,\" without
-    > modification, in all lower tier covered transactions and in all
-    > solicitations for lower tier covered transactions.
+    by submitting this Proposal that it will include the clause titled
+    \"Certification Regarding Debarment, Suspension, Ineligibility and
+    Voluntary Exclusion - Lower Tier Covered Transactions,\" without
+    modification, in all lower tier covered transactions and in all
+    solicitations for lower tier covered transactions.
 
 7.  A participant in a covered transaction may rely upon a certification
-    > of a prospective participant in a lower tier covered transaction
-    > that it is not debarred, suspended, ineligible, or voluntarily
-    > excluded from the covered transaction, unless it knows that the
-    > certification is erroneous. A participant may decide the method
-    > and frequency by which it determines the eligibility of its
-    > principals. Each participant may but is not required to check the
-    > List of Parties Excluded from Procurement or Non-procurement
-    > Programs.
+    of a prospective participant in a lower tier covered transaction
+    that it is not debarred, suspended, ineligible, or voluntarily
+    excluded from the covered transaction, unless it knows that the
+    certification is erroneous. A participant may decide the method
+    and frequency by which it determines the eligibility of its
+    principals. Each participant may but is not required to check the
+    List of Parties Excluded from Procurement or Non-procurement
+    Programs.
 
 8.  Nothing contained in the foregoing shall be construed to require
-    > establishment of a system of records in order to render in good
-    > faith the certification required by this clause. The knowledge and
-    > information of a participant is not required to exceed that which
-    > is normally possessed by a prudent person in the ordinary course
-    > of business dealings.
+    establishment of a system of records in order to render in good
+    faith the certification required by this clause. The knowledge and
+    information of a participant is not required to exceed that which
+    is normally possessed by a prudent person in the ordinary course
+    of business dealings.
 
-> Except for transactions authorized under paragraph 5 of these
-> instructions, if a participant in a covered transaction knowingly
-> enters into a lower tier covered transaction with a person who is
-> suspended, debarred, ineligible, or voluntarily excluded from
-> participation in this transaction, in addition to other remedies
-> available to the Federal Government, the DOL may pursue available
-> remedies, including suspension and/or debarment.
+Except for transactions authorized under paragraph 5 of these
+instructions, if a participant in a covered transaction knowingly
+enters into a lower tier covered transaction with a person who is
+suspended, debarred, ineligible, or voluntarily excluded from
+participation in this transaction, in addition to other remedies
+available to the Federal Government, the DOL may pursue available
+remedies, including suspension and/or debarment.
 
 SEC. 8.06 APPENDIX 6 -- TEMPLATE STANDARD AGREEMENT FORM
 --------------------------------------------------------
