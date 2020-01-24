@@ -1884,6 +1884,7 @@ remedies, including suspension and/or debarment.
 SEC. 8.06 APPENDIX 6 -- TEMPLATE STANDARD AGREEMENT FORM
 --------------------------------------------------------
 
+![Standard Agreement Form for Professional Services](media/standard-agreement-form.png)
 
 <p align="center">
 <strong>Appendix A
