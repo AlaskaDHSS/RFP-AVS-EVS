@@ -1272,34 +1272,33 @@ Offerors are expected to complete Column 2 with their proposed rates, then multi
 	
 ### <a name="8.02"></a>SEC. 8.02 Appendix 2 -- RFP Checklist
 
-> **Important note to offerors:** This checklist is provided to assist
-> offerors and the Procurement Officer in addressing and/or locating
-> specific requirements identified in this solicitation.
->
-> **Offerors must complete and return this form**.
->
-> Completion of this form does not guarantee a declaration of
-> responsiveness.
->
-> **Offeror's Name:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Important note to offerors:** This checklist is provided to assist
+offerors and the Procurement Officer in addressing and/or locating
+specific requirements identified in this solicitation.
+
+ **Offerors must complete and return this form**.
+
+ Completion of this form does not guarantee a declaration of
+responsiveness.
+
+**Offeror's Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 1.  **Contact Information**
 
-> Proposals must include complete contact information (legal name, dba,
-> address, telephone, email, and website) of the firm submitting the
-> proposal.
->
-> Proposals must also include the name and full contact information of
-> the person the State should contact regarding the proposal.
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+Proposals must include complete contact information (legal name, dba,
+address, telephone, email, and website) of the firm submitting the
+proposal.
+
+Proposals must also include the name and full contact information of
+the person the State should contact regarding the proposal.
+
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
 2.  **Offeror's Certification**
 
-> All proposals must be signed by an individual authorized to bind the
-> offeror to the provisions of this solicitation. Certification must
-> include a statement of compliance with all of the following:
+All proposals must be signed by an individual authorized to bind the
+offeror to the provisions of this solicitation. Certification must
+include a statement of compliance with all of the following:
 
 a.  the laws of the State of Alaska;
 
@@ -1310,86 +1309,83 @@ c.  the Equal Employment Opportunity Act and the regulations issued thereunder b
 d.  all terms and conditions set out in this solicitation;
 
 e.  a condition that the proposal submitted was independently arrived
-    > at, without collusion, under penalty of perjury;
+    at, without collusion, under penalty of perjury;
 
 f.  that the offers will remain open and valid for at least 90 days; and
 
 g.  that programs, services, and activities provided to the general
-    > public under the resulting contract conform with the Americans
-    > with Disabilities Act of 1990, and the regulations issued
-    > thereunder by the federal government.
+    public under the resulting contract conform with the Americans
+    with Disabilities Act of 1990, and the regulations issued
+    thereunder by the federal government.
 
-> If any offeror fails to comply with a - h of this paragraph, the state
-> reserves the right to disregard the proposal, terminate the contract,
-> or consider the contractor in default.
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+If any offeror fails to comply with a - h of this paragraph, the state
+reserves the right to disregard the proposal, terminate the contract,
+or consider the contractor in default.
 
-3.  **Certification Regarding Debarment, Suspension, Ineligibility\
-    > and Voluntary Exclusion Lower Tier Covered Transactions**
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
-> Each proposal must include a signed debarment certification form,
-> included in Section 8: Attachments.
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+3.  **Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions**
+
+Each proposal must include a signed debarment certification form,
+included in Section 8: Attachments.
+
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
 4.  **Minimum Qualifications**
 
-> The offeror, and any subcontractors, must provide verifiable proof of
-> meeting the minimum prior experience requirements described in Section
-> 1.04. Dates/timelines must be included.
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+The offeror, and any subcontractors, must provide verifiable proof of
+meeting the minimum prior experience requirements described in Section
+1.04. Dates/timelines must be included.
+
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
 5.  **Vendor Tax ID**
 
-> A valid Vendor Tax ID must be submitted with the proposal or within
-> five days of the State\'s request.
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+A valid Vendor Tax ID must be submitted with the proposal or within
+five days of the State\'s request.
+
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
 6.  **Alaska Business License**
 
-> The offeror, and any subcontractors, hold a valid Alaska business
-> license, or will obtain one. (Proof of business license is required
-> prior to contract award if any of the services will take place in
-> Alaska).
->
-> **Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
+The offeror, and any subcontractors, hold a valid Alaska business
+license, or will obtain one. (Proof of business license is required
+prior to contract award if any of the services will take place in
+Alaska).
+
+**Evidence is provided on page \#\_\_\_\_\_\_\_\_\_.**
 
 7.  **Cost Proposal Submitted Separately**
 
-> The cost proposal must be submitted separately from the narrative
-> proposal, either as a separate PDF if submitted via email, or in a
-> separate, sealed envelope if submitted via mail/in person.\
-> No portion of the cost proposal may be included within the body of the
-> narrative proposal.
->
-> The Cost Proposal must be completed and submitted at the same time as
-> the proposal, and both must be received by the State prior to the
-> submission deadline.
->
-> **Did the offeror submit the cost proposal separately? yes / no**
+The cost proposal must be submitted separately from the narrative
+proposal, either as a separate PDF if submitted via email, or in a
+separate, sealed envelope if submitted via mail/in person.\
+No portion of the cost proposal may be included within the body of the
+narrative proposal.
+
+The Cost Proposal must be completed and submitted at the same time as
+the proposal, and both must be received by the State prior to the
+submission deadline.
+
+**Did the offeror submit the cost proposal separately? yes / no**
 
 SEC. 8.03 APPENDIX 3 -- PROPOSAL EVALUATION FORM
 ------------------------------------------------
 
-> All proposals will be reviewed for responsiveness and then evaluated
-> using the criteria set out herein.
->
-> The total number of points used to score each proposal is 1,000.
->
-> Person or Firm Name:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> Initials of Proposal Evaluation (PEC) Member:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> Date of Review:
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> RFP Number:
-> \_\_\_\_\_[200000034]{.underline}\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+All proposals will be reviewed for responsiveness and then evaluated
+using the criteria set out herein.
+The total number of points used to score each proposal is 1,000.
+
+Person or Firm Name:
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Initials of Proposal Evaluation (PEC) Member:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Date of Review:
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+RFP Number:
+\_\_\_\_\_[200000034]{.underline}\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
 > **Procurement Officer Note: ALTER, REVISE, OR DELETE AS REQUIRED.**
 >
