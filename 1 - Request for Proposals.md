@@ -1186,7 +1186,7 @@ Attachments included as separate documents:
 
 6)  IT Reference H - DHSS Sample Security Authorization Package - Moderate Control Set
 
-### <a name="8.01"></a>SEC. 8.01 ATTACHMENT 1 -- COST PROPOSAL
+### <a name="8.01"></a>SEC. 8.01 Appendix 1 -- COST PROPOSAL
 
 **The Cost Proposal Format**
 
@@ -1199,3 +1199,83 @@ Offerors are expected to complete Column 2 with their proposed rates, then multi
 - The item counts listed below are estimates, based on anticipated item numbers. These numbers are not a guarantee of services, but rather are used here to estimate annual costs for the purpose of evaluation. The State will only pay for actual services utilized.
 - Flat rate items (Implementation & Maintenance Fees) are all inclusive. These items must include all expenses needed to accomplish the task, including items such as, but not limited to: supplies, overhead, travel, meetings, communications, etc.
 
+
+
+
+
+<p align="center">
+	<strong>Year 1</strong>
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Offeror's Proposed Rate</th>
+<th>Frequency</th>
+<th>Annual Total (Rate X Frequency)</th>
+<tr>
+</thead>
+<tbody>
+<tr><td>Implementation (inclusive of all costs)</td><td>Flat Rate</td><td>X 1</td><td>$</td></tr>
+<tr><td>Initial Data Matching - Bulk</td><td>Per Item</td><td>X 269,000 items (estimate)</td><td>$</td></tr>
+<tr><td>Maintenance Fees Includes Annual & Ad-Hoc Reports(billable monthly)</td><td>Flat Rate</td><td>Monthly X 12</td><td>$</td></tr>
+<tr><td>Per Transaction Rate</td><td>Per Item</td><td>X 264,000 items (estimate)</td><td>$</td></tr>
+	<tr><td><strong>Year 1 Proposed Total Cost (total of Lines Above)</strong></td><td style="background-color: #999"></td><td style="background-color: #999"></td><td>$</td></tr>
+</tbody>
+</table>
+
+
+
+
+	
+<p align="center">
+	<strong>Years 2-5 Annualized</strong>
+</p>
+
+
+
+
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Offeror's Proposed Rate</th>
+<th>Frequency</th>
+<th>Annual Total (Rate X Frequency)</th>
+<tr>
+</thead>
+<tbody>
+<tr><td>Maintenance Fees Includes Annual & Ad-Hoc Reports(billable monthly)</td><td>Flat Rate</td><td>Monthly X 12</td><td>$</td></tr>
+<tr><td>Per Transaction Rate</td><td>Per Item</td><td>X 264,000 items (estimate)</td><td>$</td></tr>
+<tr><td>Subtotal – Annual Rate For Each Renewal Year (add lines above)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td>$</td></tr>
+	<tr><td><strong>X 4 (for each of the 4 renewal options)</strong></td><td style="background-color: #999"></td><td style="background-color: #999"></td><td>$</td></tr>
+</tbody>
+</table>
+
+<p align="center">
+	<strong>Project Total - All Years</strong>
+</p>
+
+
+<table>
+<thead>
+<tr>
+<th>  </th>
+<th>   Total   </th>
+<tbody>
+<tr><td>Year 1 - Implementation (enter total cost of year 1)</td><td>$</td></tr>
+<tr><td>Years 2 - 5 – Renewal Options (enter total cost of years 2 - 5)</td><td>$</td></tr>
+<tr><td><strong>Estimated Project Total – all years (this is the amount that will be evaluated)</strong></td><td>$</td></tr>
+</tbody>
+</table>
+	
+### <a name="8.02"></a>SEC. 8.02 Appendix 2 -- COST RFP Checklist
+
+**Important note to offerors:**  This checklist is provided to assist offerors and the Procurement Officer in addressing and/or locating specific requirements identified in this solicitation.  
+
+**Offerors must complete and return this form.** 
+
+Completion of this form does not guarantee a declaration of responsiveness.
+
+**Offeror’s Name:** _______________________________________________________________
