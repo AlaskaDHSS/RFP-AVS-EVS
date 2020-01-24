@@ -7,7 +7,7 @@
 
 RFP 2000000034
 
-Issued DATE
+Issued 1/23/2020
 
 The Alaska Department of Health and Social Services, Division of Public
 Assistance is soliciting proposals from qualified offeror's for a web
@@ -21,15 +21,17 @@ criteria for Public Assistance programs quickly and accurately.
 
 ------------------------------------------------------------------
 
-ISSUED BY:<br>
+## ISSUED BY:
+<br>
 Department of Health And Social Services<br>
 Division of Public Assistance              
 
-PRIMARY CONTACT:<br>
+## PRIMARY CONTACT: 
+<br>
 Susan Jabal<br>
 Procurement Officer<br>
 Susan.Jabal@alaska.gov<br>
-(907) 465-5842                                            
+                                           
 
 ------------------------------------------------------------------
 
@@ -92,7 +94,7 @@ receive subsequent amendments.
 - [Sec. 4.08	Cost Proposal](#4.08)
 - [Sec. 4.09	Evaluation Criteria](#4.09)
 
-### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION (TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 100)
+### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION (TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1000)
 
 - [Sec. 5.01	Understanding of the Project (20%)](#5.01)
 - [Sec. 5.02	Methodology Used for Project (5%) ](#5.02)
@@ -135,42 +137,35 @@ receive subsequent amendments.
 - [Sec. 7.14	Solicitation Advertising](#7.14)
 
 ### Section 8. Attachments
-- [Sec. 8.01	Attachment 1 - Cost Proposal](#8.01)
+- [Sec. 8.01	Appendix 1 – Cost Proposal](#8.01)
+- [Sec. 8.02	Appendix 2 - RFP Checklist](#8.02)
+- [Sec. 8.03	Appendix 3 - Proposal Evaluation Checklist](#8.03)
+- [Sec. 8.04	Appendix 4 - Federal Requirements](#8.04)
+- [Sec. 8.05	Appendix 5 - Certificartion Regarding Debarment](#8.05)
+- [Sec. 8.06	Appendix 6 - Template Standard Agreement Form](#8.06)
+
+
 
 ## SECTION 1. INTRODUCTION & INSTRUCTIONS
 
 ### <a name="1.01"></a>SEC. 1.01 PURPOSE OF THE RFP
 
-The Alaska Department of Health and Social Services, Division of Public
-Assistance is soliciting proposals from qualified offeror's for a web
-hosted subscription service to meet the requirements of Supplemental
-Appropriations Act, 2008, Pub. L. No. 110-252; Section 1940 of the
-Social Security Act, Alaska Statutes (AS) 47.05.105 and 7 CFR 272.16 for
-asset, income, identity and new hire matches. The goals of this project
-are to procure a subscription service, supplemented with regularly
-scheduled bulk data matches, to verify applicants and recipients of
-assistance meet the eligibility criteria for Public Assistance programs
-quickly and accurately.
+The Alaska Department of Health and Social Services, Division of Public Assistance is soliciting proposals from qualified offeror’s for a web hosted subscription service to  meet the requirements of Supplemental Appropriations Act, 2008, Pub. L. No. 110-252; Section 1940 of the Social Security Act, Alaska Statutes (AS) 47.05.105 and 7 CFR 272.16 for asset, income, identity and new hire matches. The goals of this project are to procure a subscription service, supplemented with regularly scheduled bulk data matches, to verify applicants and recipients of assistance meet the eligibility criteria for Public Assistance programs quickly and accurately. 
 
-Alaska Statutes (AS) 47.05.105 requires the Department of Health and
-Social Services, Division of Public Assistance to establish an enhanced
-computerized income, asset and identity verification system for the
-purposes of verifying eligibility, eliminating duplication of public
-assistance payments, and deterring waste and fraud in public assistance
-programs administered by the department.
+Alaska Statutes (AS) 47.05.105 requires the Department of Health and Social Services, Division of Public Assistance to establish an enhanced computerized income, asset and identity verification system for the purposes of verifying eligibility, eliminating duplication of public assistance payments, and deterring waste and fraud in public assistance programs administered by the department.
 
-More information about what Alaska requires can be found in Section [SECTION 2 SCOPE OF WORK & Deliverables](#2.01)
+More information about what Alaska requires can be found in
+ [SECTION 2](#2.01)
 
 ### <a name="1.02"></a>SEC. 1.02 BUDGET
 
 
 Department of Health and Social Services, Division of Public Assistance, estimates an initial budget of $1,447,600 dollars for 1 year for completion of this project. Year 1 costs include implementation activities. Upon completion of the initial term of the contract, the State may choose to exercise four (4) annual renewal options anticipated to be valued at $897,600 annually. If the full five (5) year term is executed the value is estimated to be $5,038,000. Payment for the contract is subject to funds already appropriated and identified.
 
-### <a name="1.0"></a>SEC. 1.03 DEADLINE FOR RECEIPT OF PROPOSALS
+### <a name="1.03"></a>SEC. 1.03 DEADLINE FOR RECEIPT OF PROPOSALS
 
 
-Proposals must be received no later than 2:00 pm prevailing Alaska Time
-on Thursday, October 24, 2019
+Proposals must be received no later than 2:00 pm prevailing Alaska Time on Friday, February 21, 2020.
 
 ### <a name="1.04"></a>SEC. 1.04 MINIMUM QUALIFICATIONS 
 
@@ -183,20 +178,12 @@ minimum prior experience requirements:
     asset/enhanced verification systems approved by the Centers for
     Medicare & Medicaid Services.
 
-An offeror\'s failure to meet these minimum prior experience
-requirements may cause their proposal to be considered non-responsive
-and their proposal may be rejected.
+An offeror's failure to meet these minimum prior experience requirements may cause their proposal to be considered non-responsive and their proposal may be rejected.
 
-Offerors must complete Required Vendor Response - DHSS IT Requirements, 
-and return it as part of their proposal. A failure to complete and return 
-this IT Reference will result in a proposal being deemed non-responsive.
+Offerors must also complete the attachment ‘AVS Required Vendor Response - DHSS IT Requirements’, and return it as part of their proposal. A failure to complete and return this IT Reference will result in a proposal being deemed non-responsive.
 
-In the body of their proposal, offerors must provide comprehensive narrative 
-statements that illustrate their understanding of the technical requirements 
-and must respond to all applicable sections, or respond why a section is 
-not applicable. A failure to demonstrate how the solution being proposed 
-addresses the Technical Requirements outlined may result in the proposal 
-deemed non-responsive and rejected.
+In the body of their proposal, offerors must provide comprehensive narrative statements that illustrate their understanding of the technical requirements and must respond to all applicable sections, or respond why a section is not applicable. A failure to demonstrate how the solution being proposed addresses the Technical Requirements outlined may result in the proposal deemed non-responsive and rejected.
+
 
 
 ### <a name="1.05"></a>SEC. 1.05 REQUIRED REVIEW
@@ -227,17 +214,14 @@ make that decision.
 
 Questions or comments regarding this RFP shall be submitted as [issues
 within this RFP\'s GitHub
-repository](https://github.com/AlaskaDHSS/) no
-later than 5:00 PM (Alaska Standard Time) on XXXXXXXXX, 2019, to allow
-the State sufficient time to respond. All questions and comments will be
-publicly available. Please subscribe to the repository if your firm
-would like updates about changes and comments. Questions or comments
-received after the required deadline may not be answered.
+repository](https://github.com/AlaskaDHSS/RFP-AVS-EVS/) no later than 5:00 PM (Alaska Standard Time) on Monday, February 10, 2020, to allow the State sufficient time to respond. All questions and comments will be publicly available. Please subscribe to the repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
 
 Questions may also be submitted in writing to the Procurement Officer,
 who will post them as issues with the GitHub repository listed above.
 
-PROCUREMENT OFFICER: **Susan Jabal** – PHONE **907-465-5842** – EMAIL **Susan.Jabal@ALASKA.GOV**
+PROCUREMENT OFFICER: **Susan Jabal** 
+
+EMAIL **Susan.jabal@alaska.gov**
 
 ### <a name="1.07"></a>SEC. 1.07 RETURN INSTRUCTIONS
 
@@ -264,8 +248,8 @@ The sealed proposal package(s) must be addressed as follows:
 <center>
 Department of Health and Social Services<br>
 Division of Finance and Management Services<br>
-Attention: Susan Jabal, Procurement Officer
-RFP Number: 200000034
+Attention: Susan Jabal, Procurement Officer<br>
+RFP Number: 200000034<br>
 RFP Title: DPA AVS/EVS
 </center>
 
@@ -281,6 +265,7 @@ If using a *delivery service*, please use the following address:
 333 WILLOUGHBY AVE., ROOM 760<br>
 JUNEAU, AK 99801
 </center>
+
 An offeror’s failure to submit its proposal prior to the deadline will cause the proposal to be disqualified. 
 Late proposals or amendments will not be opened or accepted for evaluation. 
 
@@ -303,24 +288,24 @@ of proposals.
 By signature on the proposal, offerors certify that they comply with the
 following:
 
-1.  the laws of the State of Alaska;
+a.  the laws of the State of Alaska;
 
-2.  the applicable portion of the Federal Civil Rights Act of 1964;
+b.  the applicable portion of the Federal Civil Rights Act of 1964;
 
-3.  the Equal Employment Opportunity Act and the regulations issued
+c.  the Equal Employment Opportunity Act and the regulations issued
     thereunder by the federal government;
 
-4.  the Americans with Disabilities Act of 1990 and the regulations
+d.  the Americans with Disabilities Act of 1990 and the regulations
     issued thereunder by the federal government;
 
-5.  all terms and conditions set out in this RFP;
+e.  all terms and conditions set out in this RFP;
 
-6.  a condition that the proposal submitted was independently arrived
+f.  a condition that the proposal submitted was independently arrived
     at, without collusion, under penalty of perjury;
 
-7.  that the offers will remain open and valid for at least 90 days; and
+g.  that the offers will remain open and valid for at least 90 days; and
 
-8.  that programs, services, and activities provided to the general
+h.  that programs, services, and activities provided to the general
     public under the resulting contract conform with the Americans with
     Disabilities Act of 1990, and the regulations issued thereunder by
     the federal government.
