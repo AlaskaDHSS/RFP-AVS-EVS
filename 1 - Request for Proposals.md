@@ -703,7 +703,7 @@ Question and Answer Session | 30 minutes
 Closing Remarks | 5 minutes
 
 Introductions will be used solely for introducing team member’s names and roles on both the State and vendor teams. Time for introductions will not be allocated to business development purposes.
-Suggestions for system demonstration may include but not limited to: asset retrieval, income retrieval, identity verification(updated 2/4/20, per issue #34), data access audit logging, administrative privilege and user management
+Suggestions for system demonstration may include but not limited to: asset retrieval, income retrieval, identity verification (updated 2/4/20, per issue #34), data access audit logging, administrative privilege and user management
 
 This part of the verbal presentations will not exceed 60 minutes. The Procurement Officer will strictly enforce this time limit on all presentations. There will be no follow-up session for further questions after this part of the presentation.
 
