@@ -214,7 +214,7 @@ make that decision.
 
 Questions or comments regarding this RFP shall be submitted as [issues
 within this RFP\'s GitHub
-repository](https://github.com/AlaskaDHSS/RFP-AVS-EVS/) no later than 5:00 PM (Alaska Standard Time) on Monday, February 10, 2020, to allow the State sufficient time to respond. All questions and comments will be publicly available. Please subscribe to the repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
+repository](https://github.com/AlaskaDHSS/RFP-AVS-EVS/) no later than 5:00 PM (Alaska Standard Time) on Monday, February 11, 2020, to allow the State sufficient time to respond. All questions and comments will be publicly available. Please subscribe to the repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
 
 Questions may also be submitted in writing to the Procurement Officer,
 who will post them as issues with the GitHub repository listed above.
@@ -352,7 +352,7 @@ rest of the schedule may be shifted by the same number of days.
 
 -   Issue RFP on January 23, 2020
 
--   Deadline for receipt of questions on February 10, 2020
+-   Deadline for receipt of questions on February 11, 2020
 
 -   Deadline for receipt of proposals on February 21, 2020
 
