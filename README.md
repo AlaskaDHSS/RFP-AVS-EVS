@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Please submit any questions as GitHub issues in this repository by February 10 , 2020 at 5:00 pm Alaska prevailing time. 
+Please submit any questions as GitHub issues in this repository by February 11 , 2020 at 5:00 pm Alaska prevailing time. 
 
 Offers are due by February 21, 2020, at 2:00 pm Alaska prevailing time.
 
